@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29419270/README.md)
-# XBCQD-SAALI-Network-Pharmacology# XBCQD-SAALI Network Pharmacology
+# XBCQD-SAALI Network Pharmacology
 
 **Network Pharmacology Analysis of Xuanbai Chengqi Decoction (XBCQD) for Sepsis-Associated Acute Lung Injury (SAALI)**
 

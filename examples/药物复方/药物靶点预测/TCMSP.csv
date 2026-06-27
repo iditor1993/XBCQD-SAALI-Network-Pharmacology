@@ -1,0 +1,933 @@
+Mol_ID,Description,Gene_symbol
+MOL000006,CD40 ligand,CD40LG
+MOL000006,Kinetochore protein Nuf2,NUF2
+MOL000006,Hepatocyte growth factor receptor,MET
+MOL000006,Androgen receptor,AR
+MOL000006,Adenylate cyclase type 2,ADCY2
+MOL000006,Baculoviral IAP repeat-containing protein 5,BIRC5
+MOL000006,Prostaglandin E synthase,PTGES
+MOL000006,Heme oxygenase 1,HMOX1
+MOL000006,Bcl-2-like protein 1,BCL2L1
+MOL000006,Induced myeloid leukemia cell differentiation protein Mcl-1,MCL1
+MOL000006,Caspase-7,CASP7
+MOL000006,Proliferating cell nuclear antigen,PCNA
+MOL000006,Peroxisome proliferator-activated receptor gamma,PPARG
+MOL000006,Prostaglandin G/H synthase 1,PTGS1
+MOL000006,G2/mitotic-specific cyclin-B1,CCNB1
+MOL000006,Epidermal growth factor receptor,c-erbB
+MOL000006,RAC-alpha serine/threonine-protein kinase,AKT1
+MOL000006,Dipeptidyl peptidase IV,DPP4
+MOL000006,G1/S-specific cyclin-D1,CCND1
+MOL000006,Intercellular adhesion molecule 1,ICAM1
+MOL000006,Insulin receptor,INSR
+MOL000006,Receptor tyrosine-protein kinase erbB-2,ERBB2
+MOL000006,NF-kappa-B inhibitor alpha,IkBa
+MOL000006,Interferon gamma,IF2F
+MOL000006,Vascular endothelial growth factor A,VEGFA
+MOL000006,E3 ubiquitin-protein ligase Mdm2,MDM2
+MOL000006,Tumor necrosis factor,STEAP4
+MOL000006,Amyloid beta A4 protein,APP
+MOL000006,DNA topoisomerase 2-alpha,TOP2A
+MOL000006,Interstitial collagenase,MMP1
+MOL000006,Glutathione S-transferase P,GSTP1
+MOL000006,Caspase-9,CASP9
+MOL000006,Retinoblastoma-associated protein,RB1
+MOL000006,Trypsin-1,PRSS1
+MOL000006,Cellular tumor antigen p53,p53
+MOL000006,Prostaglandin G/H synthase 2,PTGS2
+MOL000006,Interleukin-4,IL4
+MOL000006,Tyrosinase,TYR
+MOL000006,Nuclear receptor coactivator 2,NCOA2
+MOL000006,Cell division protein kinase 4,CDK4
+MOL000006,Caspase-3,CASP3
+MOL000006,Transcription factor p65,RELA
+MOL000006,Baculoviral IAP repeat-containing protein 4,XIAP
+MOL000006,Xanthine dehydrogenase/oxidase,XDH
+MOL000006,Interleukin-2,IL2
+MOL000006,DNA topoisomerase 1,TOP1
+MOL000006,Cyclin-dependent kinase inhibitor 1,CDKN1A
+MOL000006,Interleukin-10,IL10
+MOL000006,Mitogen-activated protein kinase 1,MAPK1
+MOL000006,Interleukin-6,IL6
+MOL000006,Matrix metalloproteinase-9,MMP9
+MOL000006,72 kDa type IV collagenase,MMP2
+MOL000358,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL000358,Dopamine D1 receptor,DRD1
+MOL000358,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL000358,Beta-2 adrenergic receptor,ADRB2
+MOL000358,Potassium voltage-gated channel subfamily H member 2,KCNH2
+MOL000358,Alpha-1A adrenergic receptor,ADRA1A
+MOL000358,Prostaglandin G/H synthase 2,PTGS2
+MOL000358,Muscarinic acetylcholine receptor M3,CHRM3
+MOL000358,Neuronal acetylcholine receptor subunit alpha-2,CHRNA2
+MOL000358,Sodium-dependent serotonin transporter,SLC6A4
+MOL000358,Muscarinic acetylcholine receptor M2,CHRM2
+MOL000358,Microtubule-associated protein 2,MAP2
+MOL000358,Muscarinic acetylcholine receptor M4,CHRM4
+MOL000358,Nuclear receptor coactivator 2,NCOA2
+MOL000358,Prostaglandin G/H synthase 1,PTGS1
+MOL000358,Apoptosis regulator BAX,BAX
+MOL000358,Caspase-3,CASP3
+MOL000358,Alpha-1B adrenergic receptor,ADRA1B
+MOL000358,Muscarinic acetylcholine receptor M1,CHRM1
+MOL000358,Apoptosis regulator Bcl-2,BCL2
+MOL000358,Caspase-9,CASP9
+MOL000358,Progesterone receptor,PGR
+MOL000358,Serum paraoxonase/arylesterase 1,PON1
+MOL000358,Mu-type opioid receptor,OPRM1
+MOL000358,Protein kinase C alpha type,PRKCA
+MOL000358,Transforming growth factor beta-1,TGFB1
+MOL000358,Caspase-8,CASP8
+MOL000449,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL000449,Muscarinic acetylcholine receptor M3,CHRM3
+MOL000449,Retinoic acid receptor RXR-alpha,RXRA
+MOL000449,Beta-1 adrenergic receptor,ADRB1
+MOL000449,Alpha-1A adrenergic receptor,ADRA1A
+MOL000449,Nuclear receptor coactivator 2,NCOA2
+MOL000449,Amine oxidase [flavin-containing] B,MAOB
+MOL000449,Progesterone receptor,PGR
+MOL000449,Amine oxidase [flavin-containing] A,MAOA
+MOL000449,Prostaglandin G/H synthase 1,PTGS1
+MOL000449,Leukotriene A-4 hydrolase,LTA4H
+MOL000449,Urokinase-type plasminogen activator,ATF
+MOL000449,Muscarinic acetylcholine receptor M1,CHRM1
+MOL000449,Sodium-dependent noradrenaline transporter,SLC6A2
+MOL000449,Mineralocorticoid receptor,NR3C2
+MOL000449,Muscarinic acetylcholine receptor M2,CHRM2
+MOL000449,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL000449,Chymotrypsinogen B,CTRB1
+MOL000449,Alpha-2A adrenergic receptor,ADRA2A
+MOL000449,Alcohol dehydrogenase 1C,ADH1C
+MOL000449,Aldose reductase,AKR1B1
+MOL000449,Nuclear receptor coactivator 1,NCOA1
+MOL000449,Alpha-1B adrenergic receptor,ADRA1B
+MOL000449,Prostaglandin G/H synthase 2,PTGS2
+MOL000449,Ig gamma-1 chain C region,IGHG1
+MOL000449,Sodium-dependent dopamine transporter,DAT1
+MOL000449,Beta-2 adrenergic receptor,ADRB2
+MOL005438,Prostaglandin G/H synthase 1,PTGS1
+MOL005438,Prostaglandin G/H synthase 2,PTGS2
+MOL005438,Nuclear receptor coactivator 2,NCOA2
+MOL005438,Progesterone receptor,PGR
+MOL000569,Aldose reductase,AKR1B1
+MOL000569,Prostaglandin G/H synthase 2,PTGS2
+MOL000737,Multidrug resistance protein 1,ABCB1
+MOL000737,Xanthine dehydrogenase/oxidase,XDH
+MOL000737,Basic leucine zipper transcriptional factor ATF-like 3,BATF3
+MOL000737,Arachidonate 5-lipoxygenase,ALOX5
+MOL000737,DNA topoisomerase 1,TOP1
+MOL000737,Prostaglandin G/H synthase 1,PTGS1
+MOL000737,Type I iodothyronine deiodinase,DIO1
+MOL000737,Dipeptidyl peptidase IV,DPP4
+MOL000737,Platelet glycoprotein 4,CD36
+MOL000737,Prostaglandin G/H synthase 2,PTGS2
+MOL000737,Peroxisome proliferator activated receptor gamma,PPARG
+MOL000737,Androgen receptor,AR
+MOL000737,Endothelin-1,EDN1
+MOL000953,Mineralocorticoid receptor,NR3C2
+MOL000953,Progesterone receptor,PGR
+MOL000953,Nuclear receptor coactivator 2,NCOA2
+MOL001439,Arachidonate 5-lipoxygenase,ALOX5
+MOL001439,P-selectin,SELP
+MOL001439,Tumor necrosis factor receptor superfamily member 1B,TNFRSF1B
+MOL001439,Prostaglandin E synthase,PTGES
+MOL001439,Potassium channel subfamily K member 10,KCNK10
+MOL001439,Cytosolic phospholipase A2,PLA2G4A
+MOL001439,Prostaglandin E synthase 2,PTGES2
+MOL001439,Beta-galactosidase,EmGFP-LacZ-E2F-TdTom
+MOL001439,Transient receptor potential cation channel subfamily V member 1,TRPV1
+MOL001439,ATP-binding cassette sub-family G member 1,ABCG1
+MOL001439,Cholesteryl ester transfer protein,CETP
+MOL001439,Platelet endothelial cell adhesion molecule,PECAM1
+MOL001439,Prostaglandin G/H synthase 1,PTGS1
+MOL001439,Multidrug resistance-associated protein 4,ABCC4
+MOL001439,Protein kinase C beta type,PRKCB
+MOL001439,Complement C1r subcomponent,C1R
+MOL001439,G1/S-specific cyclin-D1,CCND1
+MOL001439,Tumor necrosis factor receptor superfamily member 1A,TNFRSF1A
+MOL001439,ATP-binding cassette sub-family A member 1,ABCA1
+MOL001439,Retinoic acid receptor RXR-gamma,RXRG
+MOL001439,Mitochondrial uncoupling protein 2,UCP2
+MOL001439,Peroxisome proliferator-activated receptor gamma,PPARG
+MOL001439,Cell division protein kinase 4,CDK4
+MOL001439,Glucose-6-phosphate 1-dehydrogenase,G6PD
+MOL001439,Mitogen-activated protein kinase 1,MAPK1
+MOL001439,Retinoic acid receptor RXR-alpha,RXRA
+MOL001439,Pro-epidermal growth factor,EGF
+MOL001439,Transcription factor p65,RELA
+MOL001439,Potassium channel subfamily K member 2,KCNK2
+MOL001439,Caspase-3,CASP3
+MOL001439,Sodium-dependent noradrenaline transporter,SLC6A2
+MOL001439,Prostaglandin G/H synthase 2,PTGS2
+MOL001601,Carbonic anhydrase II,CA2
+MOL001601,5-hydroxytryptamine receptor 3A,HTR3A
+MOL001601,Muscarinic acetylcholine receptor M5,CHRM5
+MOL001601,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL001601,Alpha-1D adrenergic receptor,ADRA1D
+MOL001601,Muscarinic acetylcholine receptor M1,CHRM1
+MOL001601,Prostaglandin G/H synthase 2,PTGS2
+MOL001601,DNA topoisomerase II,TOP2A
+MOL001601,Retinoic acid receptor RXR-alpha,RXRA
+MOL001601,Beta-2 adrenergic receptor,ADRB2
+MOL001601,Sodium-dependent dopamine transporter,DAT1
+MOL001601,Prostaglandin G/H synthase 1,PTGS1
+MOL001601,Muscarinic acetylcholine receptor M2,CHRM2
+MOL001601,Muscarinic acetylcholine receptor M3,CHRM3
+MOL001601,Mu-type opioid receptor,OPRM1
+MOL001601,Alpha-1B adrenergic receptor,ADRA1B
+MOL001601,Nuclear receptor coactivator 1,NCOA1
+MOL001601,Dopamine D1 receptor,DRD1
+MOL001601,Delta-type opioid receptor,OPRD1
+MOL001601,Sodium-dependent serotonin transporter,SLC6A4
+MOL001601,Alpha-1A adrenergic receptor,ADRA1A
+MOL001601,Muscarinic acetylcholine receptor M4,CHRM4
+MOL001601,Nuclear receptor coactivator 2,NCOA2
+MOL001601,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL001601,Ig gamma-1 chain C region,IGHG1
+MOL001659,Progesterone receptor,PGR
+MOL001659,Mineralocorticoid receptor,NR3C2
+MOL001755,Mineralocorticoid receptor,NR3C2
+MOL001755,Progesterone receptor,PGR
+MOL001771,Progesterone receptor,PGR
+MOL001771,Nuclear receptor coactivator 2,NCOA2
+MOL001942,Prostaglandin G/H synthase 2,PTGS2
+MOL002222,Alpha-1D adrenergic receptor,ADRA1D
+MOL002222,Muscarinic acetylcholine receptor M2,CHRM2
+MOL002222,Mu-type opioid receptor,OPRM1
+MOL002222,Acetylcholinesterase,ACHE
+MOL002222,Muscarinic acetylcholine receptor M1,CHRM1
+MOL002222,Delta-type opioid receptor,OPRD1
+MOL002222,Muscarinic acetylcholine receptor M5,CHRM5
+MOL002222,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL002222,Carbonic anhydrase II,CA2
+MOL002222,Prostaglandin G/H synthase 2,PTGS2
+MOL002222,Beta-2 adrenergic receptor,ADRB2
+MOL002222,Muscarinic acetylcholine receptor M3,CHRM3
+MOL002222,Alpha-1B adrenergic receptor,ADRA1B
+MOL002222,Alpha-1A adrenergic receptor,ADRA1A
+MOL002222,Muscarinic acetylcholine receptor M4,CHRM4
+MOL002651,Muscarinic acetylcholine receptor M4,CHRM4
+MOL002651,Acetylcholinesterase,ACHE
+MOL002651,Prostaglandin G/H synthase 2,PTGS2
+MOL002651,Beta-2 adrenergic receptor,ADRB2
+MOL002651,Dopamine D1 receptor,DRD1
+MOL002651,Peroxisome proliferator activated receptor gamma,PPARG
+MOL002651,Alpha-1A adrenergic receptor,ADRA1A
+MOL002651,Delta-type opioid receptor,OPRD1
+MOL002651,Nuclear receptor coactivator 1,NCOA1
+MOL002651,Androgen receptor,AR
+MOL002651,Muscarinic acetylcholine receptor M3,CHRM3
+MOL002651,Muscarinic acetylcholine receptor M1,CHRM1
+MOL002651,Mu-type opioid receptor,OPRM1
+MOL002651,Muscarinic acetylcholine receptor M5,CHRM5
+MOL002651,Dipeptidyl peptidase IV,DPP4
+MOL002651,Estrogen receptor,ESR1
+MOL002651,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL002651,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL003790,Muscarinic acetylcholine receptor M1,CHRM1
+MOL003790,Muscarinic acetylcholine receptor M2,CHRM2
+MOL003790,Nuclear receptor coactivator 2,NCOA2
+MOL005348,Nuclear receptor coactivator 2,NCOA2
+MOL005348,Mineralocorticoid receptor,NR3C2
+MOL005409,Beta-2 adrenergic receptor,ADRB2
+MOL005409,Muscarinic acetylcholine receptor M1,CHRM1
+MOL005409,Dopamine D1 receptor,DRD1
+MOL005409,Alpha-1B adrenergic receptor,ADRA1B
+MOL005409,Muscarinic acetylcholine receptor M5,CHRM5
+MOL005409,Muscarinic acetylcholine receptor M3,CHRM3
+MOL005409,Alpha-1A adrenergic receptor,ADRA1A
+MOL005409,Alpha-2A adrenergic receptor,ADRA2A
+MOL005438,Progesterone receptor,PGR
+MOL005531,Glucocorticoid receptor,NR3C1
+MOL005531,Mineralocorticoid receptor,NR3C2
+MOL007036,DNA topoisomerase II,TOP2A
+MOL007036,Ig gamma-1 chain C region,IGHG1
+MOL007036,Alpha-1A adrenergic receptor,ADRA1A
+MOL007036,Beta-2 adrenergic receptor,ADRB2
+MOL007036,Alpha-1B adrenergic receptor,ADRA1B
+MOL007036,Mu-type opioid receptor,OPRM1
+MOL007036,Acetylcholinesterase,ACHE
+MOL007036,Carbonic anhydrase II,CA2
+MOL007036,Prostaglandin G/H synthase 1,PTGS1
+MOL007036,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007036,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007036,Nuclear receptor coactivator 1,NCOA1
+MOL007036,Retinoic acid receptor RXR-alpha,RXRA
+MOL007036,Nuclear receptor coactivator 2,NCOA2
+MOL007036,Prostaglandin G/H synthase 2,PTGS2
+MOL007036,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007041,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007041,Sodium-dependent dopamine transporter,DAT1
+MOL007041,Estrogen receptor,ESR1
+MOL007041,Androgen receptor,AR
+MOL007041,Cyclin-A2,CCNA2
+MOL007041,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007041,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007041,Beta-2 adrenergic receptor,ADRB2
+MOL007041,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007041,Alpha-1D adrenergic receptor,ADRA1D
+MOL007041,Dopamine D1 receptor,DRD1
+MOL007041,5-hydroxytryptamine receptor 3A,HTR3A
+MOL007041,Alpha-1B adrenergic receptor,ADRA1B
+MOL007041,Retinoic acid receptor RXR-alpha,RXRA
+MOL007041,Peroxisome proliferator activated receptor gamma,PPARG
+MOL007041,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007041,Nuclear receptor coactivator 2,NCOA2
+MOL007041,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007041,Mu-type opioid receptor,OPRM1
+MOL007041,Sodium-dependent serotonin transporter,SLC6A4
+MOL007041,Prostaglandin G/H synthase 1,PTGS1
+MOL007041,Alpha-1A adrenergic receptor,ADRA1A
+MOL007041,Ig gamma-1 chain C region,IGHG1
+MOL007041,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007041,Cell division protein kinase 2,CDK2
+MOL007041,Prostaglandin G/H synthase 2,PTGS2
+#N/A,Muscarinic acetylcholine receptor M1,CHRM1
+#N/A,Dipeptidyl peptidase IV,DPP4
+#N/A,Trypsin-1,PRSS1
+#N/A,Mu-type opioid receptor,OPRM1
+#N/A,Muscarinic acetylcholine receptor M5,CHRM5
+#N/A,Delta-type opioid receptor,OPRD1
+#N/A,Sodium channel protein type 5 subunit alpha,SCN5A
+#N/A,Nuclear receptor coactivator 1,NCOA1
+#N/A,Acetylcholinesterase,ACHE
+#N/A,Prostaglandin G/H synthase 2,PTGS2
+#N/A,Beta-2 adrenergic receptor,ADRB2
+MOL007048,Prostaglandin G/H synthase 2,PTGS2
+MOL007049,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007049,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007049,Delta-type opioid receptor,OPRD1
+MOL007049,Alpha-1A adrenergic receptor,ADRA1A
+MOL007049,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007049,Sodium-dependent serotonin transporter,SLC6A4
+MOL007049,Retinoic acid receptor RXR-alpha,RXRA
+MOL007049,Peroxisome proliferator activated receptor gamma,PPARG
+MOL007049,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007049,Prostaglandin G/H synthase 1,PTGS1
+MOL007049,Alpha-2C adrenergic receptor,ADRA2C
+MOL007049,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007049,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007049,Alpha-2A adrenergic receptor,ADRA2A
+MOL007049,Estrogen receptor,ESR1
+MOL007049,Dopamine D1 receptor,DRD1
+MOL007049,Alpha-1D adrenergic receptor,ADRA1D
+MOL007049,Prostaglandin G/H synthase 2,PTGS2
+MOL007049,Nuclear receptor coactivator 1,NCOA1
+MOL007049,Beta-2 adrenergic receptor,ADRB2
+MOL007049,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007049,Androgen receptor,AR
+MOL007049,Nuclear receptor coactivator 2,NCOA2
+MOL007049,Alpha-1B adrenergic receptor,ADRA1B
+MOL007049,Mu-type opioid receptor,OPRM1
+MOL007049,Carbonic anhydrase II,CA2
+MOL007049,Sodium-dependent dopamine transporter,DAT1
+MOL007049,DNA topoisomerase II,TOP2A
+MOL007050,Glycogen synthase kinase-3 beta,GSK3B
+MOL007050,Cyclin-A2,CCNA2
+MOL007050,Peroxisome proliferator activated receptor gamma,PPARG
+MOL007050,Estrogen receptor,ESR1
+MOL007050,Mitogen-activated protein kinase 14,MAPK14
+MOL007050,Estrogen receptor beta,ESR2
+MOL007050,Cell division protein kinase 2,CDK2
+MOL007050,Androgen receptor,AR
+MOL007058,Prostaglandin G/H synthase 2,PTGS2
+MOL007058,Nuclear receptor coactivator 1,NCOA1
+MOL007058,Retinoic acid receptor RXR-alpha,RXRA
+MOL007058,Dipeptidyl peptidase IV,DPP4
+MOL007058,Androgen receptor,AR
+MOL007059,Beta-2 adrenergic receptor,ADRB2
+MOL007059,Alpha-1A adrenergic receptor,ADRA1A
+MOL007059,Trypsin-1,PRSS1
+MOL007059,Acetylcholinesterase,ACHE
+MOL007059,Mu-type opioid receptor,OPRM1
+MOL007059,Nuclear receptor coactivator 1,NCOA1
+MOL007059,Carbonic anhydrase II,CA2
+MOL007059,Dipeptidyl peptidase IV,DPP4
+MOL007059,Prostaglandin G/H synthase 2,PTGS2
+MOL007059,Delta-type opioid receptor,OPRD1
+MOL007059,Ig gamma-1 chain C region,IGHG1
+MOL007059,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007059,Retinoic acid receptor RXR-alpha,RXRA
+MOL007059,Dopamine D1 receptor,DRD1
+MOL007061,Mu-type opioid receptor,OPRM1
+MOL007061,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007061,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007061,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007061,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007061,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007061,Alpha-1A adrenergic receptor,ADRA1A
+MOL007061,Ig gamma-1 chain C region,IGHG1
+MOL007061,Beta-2 adrenergic receptor,ADRB2
+MOL007061,Trypsin-1,PRSS1
+MOL007061,Sodium-dependent serotonin transporter,SLC6A4
+MOL007061,Carbonic anhydrase II,CA2
+MOL007061,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007061,Prostaglandin G/H synthase 2,PTGS2
+MOL007061,Retinoic acid receptor RXR-alpha,RXRA
+MOL007061,Nuclear receptor coactivator 1,NCOA1
+MOL007061,Dopamine D1 receptor,DRD1
+MOL007061,Delta-type opioid receptor,OPRD1
+MOL007061,Dipeptidyl peptidase IV,DPP4
+MOL007061,Acetylcholinesterase,ACHE
+MOL007063,Mineralocorticoid receptor,NR3C2
+MOL007063,Glucocorticoid receptor,NR3C1
+MOL007064,Nuclear receptor coactivator 2,NCOA2
+MOL007064,Prostaglandin G/H synthase 2,PTGS2
+MOL007064,Glucocorticoid receptor,NR3C1
+MOL007064,Mineralocorticoid receptor,NR3C2
+MOL007064,Progesterone receptor,PGR
+MOL007064,Nuclear receptor coactivator 1,NCOA1
+MOL007068,Prostaglandin G/H synthase 2,PTGS2
+MOL007068,Trypsin-1,PRSS1
+MOL007068,Retinoic acid receptor RXR-alpha,RXRA
+MOL007068,Ig gamma-1 chain C region,IGHG1
+MOL007068,Dipeptidyl peptidase IV,DPP4
+MOL007068,Nuclear receptor coactivator 1,NCOA1
+MOL007069,Nuclear receptor coactivator 1,NCOA1
+MOL007069,Prostaglandin G/H synthase 1,PTGS1
+MOL007069,Delta-type opioid receptor,OPRD1
+MOL007069,Carbonic anhydrase II,CA2
+MOL007069,Acetylcholinesterase,ACHE
+MOL007069,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007069,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007069,Beta-2 adrenergic receptor,ADRB2
+MOL007069,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007069,Prostaglandin G/H synthase 2,PTGS2
+MOL007069,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007069,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007069,Mu-type opioid receptor,OPRM1
+MOL007069,Alpha-1A adrenergic receptor,ADRA1A
+MOL007069,Dopamine D1 receptor,DRD1
+MOL007069,Dipeptidyl peptidase IV,DPP4
+MOL007069,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007069,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007070,Dipeptidyl peptidase IV,DPP4
+MOL007070,Trypsin-1,PRSS1
+MOL007070,Nuclear receptor coactivator 1,NCOA1
+MOL007070,Prostaglandin G/H synthase 2,PTGS2
+MOL007070,Carbonic anhydrase II,CA2
+MOL007070,Acetylcholinesterase,ACHE
+MOL007071,Dipeptidyl peptidase IV,DPP4
+MOL007071,Prostaglandin G/H synthase 2,PTGS2
+MOL007071,Trypsin-1,PRSS1
+MOL007071,Nuclear receptor coactivator 1,NCOA1
+MOL007077,Prostaglandin G/H synthase 2,PTGS2
+MOL007079,Delta-type opioid receptor,OPRD1
+MOL007079,Mu-type opioid receptor,OPRM1
+MOL007079,Beta-2 adrenergic receptor,ADRB2
+MOL007079,Trypsin-1,PRSS1
+MOL007079,Dipeptidyl peptidase IV,DPP4
+MOL007079,Nuclear receptor coactivator 1,NCOA1
+MOL007079,Prostaglandin G/H synthase 2,PTGS2
+MOL007079,Dopamine D1 receptor,DRD1
+MOL007079,Acetylcholinesterase,ACHE
+MOL007079,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007081,Nuclear receptor coactivator 1,NCOA1
+MOL007081,Mu-type opioid receptor,OPRM1
+MOL007081,DNA topoisomerase II,TOP2A
+MOL007081,Prostaglandin G/H synthase 2,PTGS2
+MOL007081,Glucocorticoid receptor,NR3C1
+MOL007081,Carbonic anhydrase II,CA2
+MOL007081,Progesterone receptor,PGR
+MOL007082,Prostaglandin G/H synthase 2,PTGS2
+MOL007082,Prostaglandin G/H synthase 1,PTGS1
+MOL007082,Retinoic acid receptor RXR-alpha,RXRA
+MOL007082,Nuclear receptor coactivator 1,NCOA1
+MOL007082,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007082,Potassium voltage-gated channel subfamily H member 2,KCNH2
+MOL007085,Prostaglandin G/H synthase 1,PTGS1
+MOL007085,Estrogen receptor beta,ESR2
+MOL007085,Prostaglandin G/H synthase 2,PTGS2
+MOL007085,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007085,Androgen receptor,AR
+MOL007085,5-hydroxytryptamine receptor 3A,HTR3A
+MOL007085,Estrogen receptor,ESR1
+MOL007088,Mu-type opioid receptor,OPRM1
+MOL007088,Dopamine D1 receptor,DRD1
+MOL007088,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007088,Alpha-1D adrenergic receptor,ADRA1D
+MOL007088,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007088,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007088,G1/S-specific cyclin-D1,CCND1
+MOL007088,Prostaglandin G/H synthase 1,PTGS1
+MOL007088,Alpha-1B adrenergic receptor,ADRA1B
+MOL007088,Alpha-1A adrenergic receptor,ADRA1A
+MOL007088,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007088,Signal transducer and activator of transcription 3,STAT3
+MOL007088,Nuclear receptor coactivator 1,NCOA1
+MOL007088,Nuclear receptor coactivator 2,NCOA2
+MOL007088,Beta-2 adrenergic receptor,ADRB2
+MOL007088,Progesterone receptor,PGR
+MOL007088,Endothelin-1,EDN1
+MOL007088,Delta-type opioid receptor,OPRD1
+MOL007088,Tumor necrosis factor,STEAP4
+MOL007088,Carbonic anhydrase II,CA2
+MOL007088,Baculoviral IAP repeat-containing protein 5,BIRC5
+MOL007088,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007088,Transcription factor p65,RELA
+MOL007088,Bcl-2-like protein 1,BCL2L1
+MOL007088,Prostaglandin G/H synthase 2,PTGS2
+MOL007088,DNA topoisomerase II,TOP2A
+MOL007088,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007088,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007088,Amyloid beta A4 protein,APP
+MOL007093,Trypsin-1,PRSS1
+MOL007093,Serine/threonine-protein kinase Chk1,CHEK1
+MOL007093,Glycogen synthase kinase-3 beta,GSK3B
+MOL007093,Cell division protein kinase 2,CDK2
+MOL007093,Peroxisome proliferator activated receptor gamma,PPARG
+MOL007093,Prostaglandin G/H synthase 1,PTGS1
+MOL007093,Ig gamma-1 chain C region,IGHG1
+MOL007093,Cyclin-A2,CCNA2
+MOL007093,Nuclear receptor coactivator 2,NCOA2
+MOL007093,Carbonic anhydrase II,CA2
+MOL007093,Androgen receptor,AR
+MOL007093,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007093,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007093,Estrogen receptor,ESR1
+MOL007093,Prostaglandin G/H synthase 2,PTGS2
+MOL007093,Estrogen receptor beta,ESR2
+MOL007093,Beta-2 adrenergic receptor,ADRB2
+MOL007093,Potassium voltage-gated channel subfamily H member 2,KCNH2
+MOL007093,Dipeptidyl peptidase IV,DPP4
+MOL007093,Nuclear receptor coactivator 1,NCOA1
+MOL007093,DNA topoisomerase II,TOP2A
+MOL007093,Alpha-1B adrenergic receptor,ADRA1B
+MOL007093,Retinoic acid receptor RXR-alpha,RXRA
+MOL007093,Acetylcholinesterase,ACHE
+MOL007094,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007094,Mu-type opioid receptor,OPRM1
+MOL007094,Alpha-1D adrenergic receptor,ADRA1D
+MOL007094,Neuronal acetylcholine receptor subunit alpha-2,CHRNA2
+MOL007094,Retinoic acid receptor RXR-alpha,RXRA
+MOL007094,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007094,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007094,Alpha-1A adrenergic receptor,ADRA1A
+MOL007094,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007094,Carbonic anhydrase II,CA2
+MOL007094,Beta-2 adrenergic receptor,ADRB2
+MOL007094,Sodium-dependent serotonin transporter,SLC6A4
+MOL007094,Acetylcholinesterase,ACHE
+MOL007094,Prostaglandin G/H synthase 2,PTGS2
+MOL007094,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007094,Dopamine D1 receptor,DRD1
+MOL007094,Alpha-1B adrenergic receptor,ADRA1B
+MOL007094,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007094,Prostaglandin G/H synthase 1,PTGS1
+MOL007094,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007094,Dipeptidyl peptidase IV,DPP4
+MOL007094,Estrogen receptor,ESR1
+MOL007098,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007098,Alpha-1A adrenergic receptor,ADRA1A
+MOL007098,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007098,Prostaglandin G/H synthase 2,PTGS2
+MOL007098,Dopamine D1 receptor,DRD1
+MOL007098,Prostaglandin G/H synthase 1,PTGS1
+MOL007098,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007098,Alpha-1D adrenergic receptor,ADRA1D
+MOL007098,Delta-type opioid receptor,OPRD1
+MOL007098,Alpha-1B adrenergic receptor,ADRA1B
+MOL007098,Carbonic anhydrase II,CA2
+MOL007098,Glycogen synthase kinase-3 beta,GSK3B
+MOL007098,Beta-2 adrenergic receptor,ADRB2
+MOL007098,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007098,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007098,Androgen receptor,AR
+MOL007098,Retinoic acid receptor RXR-alpha,RXRA
+MOL007098,Cell division protein kinase 2,CDK2
+MOL007098,DNA topoisomerase II,TOP2A
+MOL007098,Ig gamma-1 chain C region,IGHG1
+MOL007098,Nuclear receptor coactivator 1,NCOA1
+MOL007098,Estrogen receptor,ESR1
+MOL007098,Nuclear receptor coactivator 2,NCOA2
+MOL007098,Mu-type opioid receptor,OPRM1
+MOL007098,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007100,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007100,Dopamine D1 receptor,DRD1
+MOL007100,Prostaglandin G/H synthase 1,PTGS1
+MOL007100,Alpha-1B adrenergic receptor,ADRA1B
+MOL007100,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007100,Peroxisome proliferator activated receptor gamma,PPARG
+MOL007100,Dipeptidyl peptidase IV,DPP4
+MOL007100,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007100,Mu-type opioid receptor,OPRM1
+MOL007100,Beta-2 adrenergic receptor,ADRB2
+MOL007100,Alpha-1A adrenergic receptor,ADRA1A
+MOL007100,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007100,Androgen receptor,AR
+MOL007100,Trypsin-1,PRSS1
+MOL007100,Prostaglandin G/H synthase 2,PTGS2
+MOL007100,Sodium-dependent dopamine transporter,DAT1
+MOL007100,Glycogen synthase kinase-3 beta,GSK3B
+MOL007100,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007100,Sodium-dependent serotonin transporter,SLC6A4
+MOL007100,Alpha-1D adrenergic receptor,ADRA1D
+MOL007100,Estrogen receptor,ESR1
+MOL007100,Retinoic acid receptor RXR-alpha,RXRA
+MOL007100,Acetylcholinesterase,ACHE
+MOL007100,Ig gamma-1 chain C region,IGHG1
+MOL007100,Carbonic anhydrase II,CA2
+MOL007100,Cyclin-A2,CCNA2
+MOL007100,5-hydroxytryptamine receptor 3A,HTR3A
+MOL007101,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007101,Beta-2 adrenergic receptor,ADRB2
+MOL007101,Nuclear receptor coactivator 1,NCOA1
+MOL007101,Nuclear receptor coactivator 2,NCOA2
+MOL007101,Alpha-1A adrenergic receptor,ADRA1A
+MOL007101,Ig gamma-1 chain C region,IGHG1
+MOL007101,Retinoic acid receptor RXR-alpha,RXRA
+MOL007101,Prostaglandin G/H synthase 1,PTGS1
+MOL007101,Alpha-1B adrenergic receptor,ADRA1B
+MOL007101,5-hydroxytryptamine receptor 3A,HTR3A
+MOL007101,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007101,Prostaglandin G/H synthase 2,PTGS2
+MOL007105,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007105,Alpha-1D adrenergic receptor,ADRA1D
+MOL007105,Dopamine D1 receptor,DRD1
+MOL007105,Sodium-dependent serotonin transporter,SLC6A4
+MOL007105,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007105,Mu-type opioid receptor,OPRM1
+MOL007105,Prostaglandin G/H synthase 1,PTGS1
+MOL007105,Alpha-1B adrenergic receptor,ADRA1B
+MOL007105,Beta-2 adrenergic receptor,ADRB2
+MOL007105,Alpha-1A adrenergic receptor,ADRA1A
+MOL007105,Estrogen receptor,ESR1
+MOL007105,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007105,Retinoic acid receptor RXR-alpha,RXRA
+MOL007105,Delta-type opioid receptor,OPRD1
+MOL007105,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007105,Cell division protein kinase 2,CDK2
+MOL007105,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007105,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007105,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007105,Prostaglandin G/H synthase 2,PTGS2
+MOL007107,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007107,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007107,Beta-2 adrenergic receptor,ADRB2
+MOL007107,Alpha-1A adrenergic receptor,ADRA1A
+MOL007107,Alpha-1D adrenergic receptor,ADRA1D
+MOL007107,Mu-type opioid receptor,OPRM1
+MOL007107,Acetylcholinesterase,ACHE
+MOL007107,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007107,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007107,Alpha-1B adrenergic receptor,ADRA1B
+MOL007107,Carbonic anhydrase II,CA2
+MOL007108,Alpha-1D adrenergic receptor,ADRA1D
+MOL007108,Estrogen receptor,ESR1
+MOL007108,Beta-2 adrenergic receptor,ADRB2
+MOL007108,Nuclear receptor coactivator 2,NCOA2
+MOL007108,DNA topoisomerase II,TOP2A
+MOL007108,Alpha-1B adrenergic receptor,ADRA1B
+MOL007108,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007108,Mu-type opioid receptor,OPRM1
+MOL007108,Nuclear receptor coactivator 1,NCOA1
+MOL007108,Androgen receptor,AR
+MOL007108,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007108,Trypsin-1,PRSS1
+MOL007108,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007108,Alpha-1A adrenergic receptor,ADRA1A
+MOL007108,Prostaglandin G/H synthase 1,PTGS1
+MOL007108,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007108,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007108,Dopamine D1 receptor,DRD1
+MOL007108,Delta-type opioid receptor,OPRD1
+MOL007108,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007108,Prostaglandin G/H synthase 2,PTGS2
+MOL007108,Acetylcholinesterase,ACHE
+MOL007108,Carbonic anhydrase II,CA2
+MOL007108,Retinoic acid receptor RXR-alpha,RXRA
+MOL007108,Cell division protein kinase 2,CDK2
+MOL007108,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007111,Delta-type opioid receptor,OPRD1
+MOL007111,Glycogen synthase kinase-3 beta,GSK3B
+MOL007111,Prostaglandin G/H synthase 2,PTGS2
+MOL007111,Dipeptidyl peptidase IV,DPP4
+MOL007111,Retinoic acid receptor RXR-alpha,RXRA
+MOL007111,Alpha-1A adrenergic receptor,ADRA1A
+MOL007111,Cell division protein kinase 2,CDK2
+MOL007111,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007111,Estrogen receptor beta,ESR2
+MOL007111,Estrogen receptor,ESR1
+MOL007111,Acetylcholinesterase,ACHE
+MOL007111,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007111,Mu-type opioid receptor,OPRM1
+MOL007111,Androgen receptor,AR
+MOL007111,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007111,Beta-2 adrenergic receptor,ADRB2
+MOL007111,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007111,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007111,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007111,Dopamine D1 receptor,DRD1
+MOL007111,Cyclin-A2,CCNA2
+MOL007111,Serine/threonine-protein kinase Chk1,CHEK1
+MOL007115,Nuclear receptor coactivator 2,NCOA2
+MOL007119,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007119,Glucocorticoid receptor,NR3C1
+MOL007119,Ig gamma-1 chain C region,IGHG1
+MOL007119,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007119,DNA topoisomerase II,TOP2A
+MOL007119,Beta-2 adrenergic receptor,ADRB2
+MOL007119,Alpha-1B adrenergic receptor,ADRA1B
+MOL007119,Nuclear receptor coactivator 2,NCOA2
+MOL007119,Estrogen receptor,ESR1
+MOL007119,Mu-type opioid receptor,OPRM1
+MOL007119,Androgen receptor,AR
+MOL007119,Glycogen synthase kinase-3 beta,GSK3B
+MOL007119,Cyclin-A2,CCNA2
+MOL007119,Beta-lactamase,DPEP1
+MOL007119,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007119,Nuclear receptor coactivator 1,NCOA1
+MOL007119,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007119,Carbonic anhydrase II,CA2
+MOL007119,Alpha-1A adrenergic receptor,ADRA1A
+MOL007119,Retinoic acid receptor RXR-alpha,RXRA
+MOL007119,Delta-type opioid receptor,OPRD1
+MOL007119,Prostaglandin G/H synthase 1,PTGS1
+MOL007119,Cell division protein kinase 2,CDK2
+MOL007119,Prostaglandin G/H synthase 2,PTGS2
+MOL007120,Glucocorticoid receptor,NR3C1
+MOL007120,Progesterone receptor,PGR
+MOL007120,Nuclear receptor coactivator 2,NCOA2
+MOL007120,Nuclear receptor coactivator 1,NCOA1
+MOL007120,Acetylcholinesterase,ACHE
+MOL007120,Carbonic anhydrase II,CA2
+MOL007120,Prostaglandin G/H synthase 2,PTGS2
+MOL007121,Acetylcholinesterase,ACHE
+MOL007121,Estrogen receptor,ESR1
+MOL007122,Prostaglandin G/H synthase 1,PTGS1
+MOL007122,Sodium-dependent dopamine transporter,DAT1
+MOL007122,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007122,Alpha-1A adrenergic receptor,ADRA1A
+MOL007122,Retinoic acid receptor RXR-alpha,RXRA
+MOL007122,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007122,Nuclear receptor coactivator 2,NCOA2
+MOL007122,Beta-2 adrenergic receptor,ADRB2
+MOL007122,Delta-type opioid receptor,OPRD1
+MOL007122,Androgen receptor,AR
+MOL007122,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007122,Dopamine D1 receptor,DRD1
+MOL007122,Alpha-1B adrenergic receptor,ADRA1B
+MOL007122,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007122,Alpha-1D adrenergic receptor,ADRA1D
+MOL007122,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007122,Estrogen receptor,ESR1
+MOL007122,Prostaglandin G/H synthase 2,PTGS2
+MOL007122,Carbonic anhydrase II,CA2
+MOL007122,Mu-type opioid receptor,OPRM1
+MOL007122,DNA topoisomerase II,TOP2A
+MOL007122,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007122,Alpha-2C adrenergic receptor,ADRA2C
+MOL007124,Alpha-1B adrenergic receptor,ADRA1B
+MOL007124,Prostaglandin G/H synthase 1,PTGS1
+MOL007124,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007124,Sodium-dependent dopamine transporter,DAT1
+MOL007124,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007124,Dopamine D1 receptor,DRD1
+MOL007124,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007124,Beta-2 adrenergic receptor,ADRB2
+MOL007124,Estrogen receptor,ESR1
+MOL007124,Delta-type opioid receptor,OPRD1
+MOL007124,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007124,Alpha-1D adrenergic receptor,ADRA1D
+MOL007124,Alpha-1A adrenergic receptor,ADRA1A
+MOL007124,Cyclin-A2,CCNA2
+MOL007124,Mu-type opioid receptor,OPRM1
+MOL007124,Retinoic acid receptor RXR-alpha,RXRA
+MOL007124,Androgen receptor,AR
+MOL007124,Sodium-dependent serotonin transporter,SLC6A4
+MOL007124,Cell division protein kinase 2,CDK2
+MOL007124,Glycogen synthase kinase-3 beta,GSK3B
+MOL007124,Carbonic anhydrase II,CA2
+MOL007124,Prostaglandin G/H synthase 2,PTGS2
+MOL007124,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007124,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007125,Ig gamma-1 chain C region,IGHG1
+MOL007125,DNA topoisomerase II,TOP2A
+MOL007125,Peroxisome proliferator activated receptor gamma,PPARG
+MOL007125,Nuclear receptor coactivator 1,NCOA1
+MOL007125,Mu-type opioid receptor,OPRM1
+MOL007125,Carbonic anhydrase II,CA2
+MOL007125,Prostaglandin G/H synthase 1,PTGS1
+MOL007125,Alpha-1D adrenergic receptor,ADRA1D
+MOL007125,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007125,Prostaglandin G/H synthase 2,PTGS2
+MOL007125,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007125,Alpha-1B adrenergic receptor,ADRA1B
+MOL007125,Nuclear receptor coactivator 2,NCOA2
+MOL007125,Beta-2 adrenergic receptor,ADRB2
+MOL007125,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007127,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007127,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007127,Prostaglandin G/H synthase 2,PTGS2
+MOL007127,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007127,Retinoic acid receptor RXR-alpha,RXRA
+MOL007127,Acetylcholinesterase,ACHE
+MOL007127,Nuclear receptor coactivator 1,NCOA1
+MOL007127,Carbonic anhydrase II,CA2
+MOL007127,Dopamine D1 receptor,DRD1
+MOL007127,Ig gamma-1 chain C region,IGHG1
+MOL007127,Prostaglandin G/H synthase 1,PTGS1
+MOL007127,Alpha-1A adrenergic receptor,ADRA1A
+MOL007127,Mu-type opioid receptor,OPRM1
+MOL007127,Dipeptidyl peptidase IV,DPP4
+MOL007127,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007127,Beta-2 adrenergic receptor,ADRB2
+MOL007130,Estrogen receptor,ESR1
+MOL007130,Androgen receptor,AR
+MOL007130,Prostaglandin G/H synthase 2,PTGS2
+MOL007130,Trypsin-1,PRSS1
+MOL007130,Prostaglandin G/H synthase 1,PTGS1
+MOL007132,Estrogen receptor,ESR1
+MOL007132,Peroxisome proliferator activated receptor gamma,PPARG
+MOL007132,Androgen receptor,AR
+MOL007132,Trypsin-1,PRSS1
+MOL007132,Prostaglandin G/H synthase 2,PTGS2
+MOL007132,Dipeptidyl peptidase IV,DPP4
+MOL007132,Cyclin-A2,CCNA2
+MOL007141,Prostaglandin G/H synthase 2,PTGS2
+MOL007142,Trypsin-1,PRSS1
+MOL007142,Coagulation factor VII,F7
+#N/A,Glucocorticoid receptor,NR3C1
+#N/A,Acetylcholinesterase,ACHE
+#N/A,Retinoic acid receptor RXR-alpha,RXRA
+#N/A,Nuclear receptor coactivator 2,NCOA2
+#N/A,Progesterone receptor,PGR
+#N/A,Prostaglandin G/H synthase 2,PTGS2
+#N/A,Nuclear receptor coactivator 1,NCOA1
+MOL007145,Prostaglandin G/H synthase 2,PTGS2
+MOL007145,Alpha-2A adrenergic receptor,ADRA2A
+MOL007145,Gamma-aminobutyric acid receptor subunit gamma-3,GABRG3
+MOL007145,Gamma-aminobutyric acid receptor subunit epsilon,GABRE
+MOL007145,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007145,Alpha-1A adrenergic receptor,ADRA1A
+MOL007145,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007145,5-hydroxytryptamine receptor 3A,HTR3A
+MOL007145,Mu-type opioid receptor,OPRM1
+MOL007145,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007145,Sodium-dependent noradrenaline transporter,SLC6A2
+MOL007145,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL007145,Prostaglandin G/H synthase 1,PTGS1
+MOL007145,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007145,Delta-type opioid receptor,OPRD1
+MOL007145,Dopamine D1 receptor,DRD1
+MOL007145,Alpha-1B adrenergic receptor,ADRA1B
+MOL007145,Alpha-2B adrenergic receptor,ADRA2B
+MOL007145,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007145,Acetylcholinesterase,ACHE
+MOL007145,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007145,Sodium-dependent serotonin transporter,SLC6A4
+MOL007145,Sodium-dependent dopamine transporter,DAT1
+MOL007145,Beta-2 adrenergic receptor,ADRB2
+MOL007145,Neuronal acetylcholine receptor subunit alpha-2,CHRNA2
+MOL007150,Acetylcholinesterase,ACHE
+MOL007150,Trypsin-1,PRSS1
+MOL007150,Nuclear receptor coactivator 1,NCOA1
+MOL007150,Dipeptidyl peptidase IV,DPP4
+MOL007150,Prostaglandin G/H synthase 2,PTGS2
+MOL007150,Carbonic anhydrase II,CA2
+MOL007151,Prostaglandin G/H synthase 2,PTGS2
+MOL007151,Nuclear receptor coactivator 1,NCOA1
+MOL007151,Carbonic anhydrase II,CA2
+MOL007151,Dipeptidyl peptidase IV,DPP4
+MOL007151,Acetylcholinesterase,ACHE
+MOL007152,Acetylcholinesterase,ACHE
+MOL007152,Carbonic anhydrase II,CA2
+MOL007152,Nuclear receptor coactivator 1,NCOA1
+MOL007152,Prostaglandin G/H synthase 2,PTGS2
+MOL007152,Dipeptidyl peptidase IV,DPP4
+MOL007154,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007154,Apoptosis regulator Bcl-2,BCL2
+MOL007154,Muscarinic acetylcholine receptor M1,CHRM1
+MOL007154,Transcription factor p65,RELA
+MOL007154,Nuclear receptor coactivator 1,NCOA1
+MOL007154,Muscarinic acetylcholine receptor M5,CHRM5
+MOL007154,Retinoic acid receptor RXR-alpha,RXRA
+MOL007154,Prostaglandin G/H synthase 2,PTGS2
+MOL007154,Fatty acid synthase,FASN
+MOL007154,Cytochrome P450 1A2,CYP1A2
+MOL007154,Myc proto-oncogene protein,MYC
+MOL007154,Endothelin-1,EDN1
+MOL007154,Muscarinic acetylcholine receptor M4,CHRM4
+MOL007154,Delta-type opioid receptor,OPRD1
+MOL007154,Acetylcholinesterase,ACHE
+MOL007154,Endothelin-1 receptor,EDNRA
+MOL007154,Cytochrome P450 3A4,CYP3A4
+MOL007154,Cyclin-dependent kinase inhibitor 1,CDKN1A
+MOL007154,Matrix metalloproteinase-9,MMP9
+MOL007154,Proto-oncogene c-Fos,FOS
+MOL007154,Muscarinic acetylcholine receptor M3,CHRM3
+MOL007154,Nuclear receptor subfamily 1 group I member 2,NR1I2
+MOL007154,Dopamine D1 receptor,DRD1
+MOL007154,Mu-type opioid receptor,OPRM1
+MOL007154,Cytochrome P450 1A1,CYP1A1
+MOL007154,Alpha-1A adrenergic receptor,ADRA1A
+MOL007154,Nucleophosmin,NPM1
+MOL007154,Endothelin-converting enzyme 1,ECE1
+MOL007154,Poly [ADP-ribose] polymerase 4,PARP4
+MOL007154,Dipeptidyl peptidase IV,DPP4
+MOL007154,Muscarinic acetylcholine receptor M2,CHRM2
+MOL007154,Beta-2 adrenergic receptor,ADRB2
+MOL007154,Cellular tumor antigen p53,p53
+MOL007154,Calcitonin receptor,CALCR
+MOL007154,Activator of 90 kDa heat shock protein ATPase homolog 1,AHSA1
+MOL007154,Caspase-3,CASP3
+MOL007154,NF-kappa-B inhibitor alpha,IkBa
+MOL007154,Integrin beta-3,ITGB3
+MOL007155,Alpha-1A adrenergic receptor,ADRA1A
+MOL007155,Delta-type opioid receptor,OPRD1
+MOL007155,Beta-2 adrenergic receptor,ADRB2
+MOL007155,Trypsin-1,PRSS1
+MOL007155,Prostaglandin G/H synthase 2,PTGS2
+MOL007155,Dipeptidyl peptidase IV,DPP4
+MOL007155,Acetylcholinesterase,ACHE
+MOL007155,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL007155,Mu-type opioid receptor,OPRM1
+MOL007155,Nuclear receptor coactivator 1,NCOA1
+MOL007155,Muscarinic acetylcholine receptor M1,CHRM1
+#N/A,Androgen receptor,AR
+#N/A,Peroxisome proliferator activated receptor gamma,PPARG
+#N/A,Sodium channel protein type 5 subunit alpha,SCN5A
+#N/A,Prostaglandin G/H synthase 2,PTGS2
+#N/A,Prostaglandin G/H synthase 1,PTGS1
+#N/A,Beta-lactamase,DPEP1
+#N/A,Ig gamma-1 chain C region,IGHG1
+#N/A,Estrogen receptor,ESR1
+#N/A,Nuclear receptor coactivator 2,NCOA2
+#N/A,Nuclear receptor coactivator 1,NCOA1
+MOL008400,Cyclin-A2,CCNA2
+MOL008400,Prostaglandin G/H synthase 1,PTGS1
+MOL008400,Trypsin-1,PRSS1
+MOL008400,Serine/threonine-protein kinase Chk1,CHEK1
+MOL008400,Cell division protein kinase 2,CDK2
+MOL008400,Nuclear receptor coactivator 1,NCOA1
+MOL008400,Estrogen receptor,ESR1
+MOL008400,Androgen receptor,AR
+MOL008400,Peroxisome proliferator activated receptor gamma,PPARG
+MOL008400,Amyloid beta A4 protein,APP
+MOL008400,Collagenase 3,MMP13
+MOL008400,Prostaglandin G/H synthase 2,PTGS2
+MOL008400,Retinoic acid receptor RXR-alpha,RXRA
+MOL008400,Glycogen synthase kinase-3 beta,GSK3B
+MOL008400,Neutrophil collagenase,MMP8
+MOL008400,Estrogen receptor beta,ESR2
+MOL008400,Mitogen-activated protein kinase 14,MAPK14
+MOL008838,Mineralocorticoid receptor,NR3C2
+MOL008838,Nuclear receptor coactivator 2,NCOA2
+MOL008839,Nuclear receptor coactivator 2,NCOA2
+MOL008839,Progesterone receptor,PGR
+MOL008839,Nuclear receptor coactivator 1,NCOA1
+MOL008845,Nuclear receptor coactivator 2,NCOA2
+MOL008845,Progesterone receptor,PGR
+MOL008845,Nuclear receptor coactivator 1,NCOA1
+MOL008845,Mineralocorticoid receptor,NR3C2
+MOL008846,Nuclear receptor coactivator 2,NCOA2
+MOL008846,Nuclear receptor coactivator 1,NCOA1
+MOL008846,Progesterone receptor,PGR
+MOL008846,Retinoic acid receptor RXR-alpha,RXRA
+MOL008846,Mineralocorticoid receptor,NR3C2
+MOL009157,Mineralocorticoid receptor,NR3C2
+MOL009157,Glucocorticoid receptor,NR3C1
+MOL009807,Nuclear receptor coactivator 1,NCOA1
+MOL009807,Nuclear receptor coactivator 2,NCOA2
+MOL009807,Mineralocorticoid receptor,NR3C2
+MOL005438,Progesterone receptor,PGR

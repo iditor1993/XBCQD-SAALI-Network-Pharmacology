@@ -1,0 +1,21 @@
+Herb_name	Mol_ID	Molecule_Name	MW	AlogP	Hdon	Hacc	OB (%)	Caco-2	BBB	DL	FASA-	HL
+Baishao	MOL000211	Mairin	456.78	6.52	2	3	55.37	0.73	0.21	0.77	57.52	8.87
+Baishao	MOL000239	Jaranol	314.31	2.08	2	6	50.82	0.6	-0.21	0.29	89.12	15.5
+Baishao	MOL000296	hederagenin	414.79	8.08	1	1	36.91	1.31	0.96	0.75	20.22	5.34
+Baishao	MOL000033	"(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R,5S)-5-propan-2-yloctan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"	428.82	8.54	1	1	36.22	1.44	1.09	0.78	20.22	5.21
+Baishao	MOL000354	isorhamnetin	316.28	1.75	4	7	49.6	0.3	-0.54	0.3	120.36	14.33
+Baishao	MOL000371	"3,9-di-O-methylnissolin"	314.36	2.89	0	5	53.74	1.17	0.63	0.47	46.15	8.99
+Baishao	MOL000374	"5'-hydroxyiso-muronulatol-2',5'-di-O-glucoside"	642.67	-0.94	9	16	41.71	-2.46	-3.61	0.69	246.67	2.52
+Baishao	MOL000378	7-O-methylisomucronulatol	316.38	3.37	1	5	74.68	1.08	0.84	0.29	57.15	2.98
+Baishao	MOL000379	"9,10-dimethoxypterocarpan-3-O-beta-D-glucoside"	462.49	0.73	4	10	36.73	-0.62	-1.49	0.92	136.3	13.06
+Baishao	MOL000380	"(6aR,11aR)-9,10-dimethoxy-6a,11a-dihydro-6H-benzofurano[3,2-c]chromen-3-ol"	300.33	2.64	1	5	64.25	0.93	0.54	0.42	57.15	8.49
+Baishao	MOL000387	Bifendate	418.38	2.56	0	10	31.09	0.15	-0.06	0.66	107.98	17.96
+Baishao	MOL000392	formononetin	268.28	2.58	1	4	69.67	0.78	0.02	0.21	59.66	17.03
+Baishao	MOL000398	isoflavanone	316.33	2.41	2	6	109.98	0.52	0.17	0.29	85.22	15.5
+Baishao	MOL000417	Calycosin	284.28	2.31	2	5	47.75	0.52	-0.42	0.24	79.9	17.09
+Baishao	MOL000422	kaempferol	286.25	1.77	4	6	41.88	0.26	-0.55	0.24	111.12	14.74
+Baishao	MOL000433	FA	441.45	0	7	13	68.96	-1.5	-2.58	0.7	213.27	24.81
+Baishao	MOL000438	"(3R)-3-(2-hydroxy-3,4-dimethoxyphenyl)chroman-7-ol"	302.35	3.12	2	5	67.66	0.96	0.34	0.26	68.15	2.9
+Baishao	MOL000439	"isomucronulatol-7,2'-di-O-glucosiole"	626.67	-0.68	8	15	49.28	-2.21	-3.36	0.62	226.44	0.93
+Baishao	MOL000442	"1,7-Dihydroxy-3,9-dimethoxy pterocarpene"	314.31	3.11	2	6	39.04	0.88	-0.03	0.47	81.29	7.94
+Baishao	MOL000098	quercetin	302.25	1.5	5	7	46.43	0.04	-0.76	0.27	131.36	14.4

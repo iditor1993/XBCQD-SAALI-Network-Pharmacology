@@ -1,0 +1,710 @@
+Mol_ID,Gene_symbol,Description
+MOL000422,ERN1,endoplasmic reticulum to nucleus signaling 1
+MOL000422,IL10,interleukin 10
+MOL000422,MMP2,matrix metallopeptidase 2
+MOL000422,MIR124-3,microRNA 124-3
+MOL000422,EPHB2,EPH receptor B2
+MOL000422,NQO1,NAD(P)H quinone dehydrogenase 1
+MOL000422,HIF1A,hypoxia inducible factor 1 subunit alpha
+MOL000422,NLRP3,NLR family pyrin domain containing 3
+MOL000422,SUFU,SUFU negative regulator of hedgehog signaling
+MOL000422,PPARGC1A,PPARG coactivator 1 alpha
+MOL000422,CDH1,cadherin 1
+MOL000422,NR1H4,nuclear receptor subfamily 1 group H member 4
+MOL000422,JAG1,jagged canonical Notch ligand 1
+MOL000422,SIRT3,sirtuin 3
+MOL000422,CHUK,component of inhibitor of nuclear factor kappa B kinase complex
+MOL000422,ATG7,autophagy related 7
+MOL000422,CYP8B1,cytochrome P450 family 8 subfamily B member 1
+MOL000422,ROCK2,Rho associated coiled-coil containing protein kinase 2
+MOL000422,MAPK14,mitogen-activated protein kinase 14
+MOL000422,NFKBIA,NFKB inhibitor alpha
+MOL000422,PLCG1,phospholipase C gamma 1
+MOL000422,CCN2,cellular communication network factor 2
+MOL000422,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+MOL000422,SYK,spleen associated tyrosine kinase
+MOL000422,VEGFA,vascular endothelial growth factor A
+MOL000422,IRF6,interferon regulatory factor 6
+MOL000422,SOD2,superoxide dismutase 2
+MOL000422,CDH5,cadherin 5
+MOL000422,GTF2H1,general transcription factor IIH subunit 1
+MOL000422,FN1,fibronectin 1
+MOL000422,ATF4,activating transcription factor 4
+MOL000422,ITPR1,"inositol 1,4,5-trisphosphate receptor type 1"
+MOL000422,BECN1,beclin 1
+MOL000422,IL17A,interleukin 17A
+MOL000422,LPCAT3,lysophosphatidylcholine acyltransferase 3
+MOL000422,ALPP,"alkaline phosphatase, placental"
+MOL000422,ELK3,ETS transcription factor ELK3
+MOL000422,RHOA,ras homolog family member A
+MOL000422,NFKB1,nuclear factor kappa B subunit 1
+MOL000422,CASP3,caspase 3
+MOL000422,EDNRA,endothelin receptor type A
+MOL000422,HMOX1,heme oxygenase 1
+MOL000422,RELA,"RELA proto-oncogene, NF-kB subunit"
+MOL000422,NOS1,nitric oxide synthase 1
+MOL000422,HSPA1A,heat shock protein family A (Hsp70) member 1A
+MOL000422,MBTPS1,"membrane bound transcription factor peptidase, site 1"
+MOL000422,PARK7,Parkinsonism associated deglycase
+MOL000422,GPT,glutamic--pyruvic transaminase
+MOL000422,XBP1,X-box binding protein 1
+MOL000422,AKT1,AKT serine/threonine kinase 1
+MOL000422,HMGB1,high mobility group box 1
+MOL000422,CD9,CD9 molecule
+MOL000422,DDIT3,DNA damage inducible transcript 3
+MOL000422,CCND1,cyclin D1
+MOL000422,SPHK1,sphingosine kinase 1
+MOL000422,BTK,Bruton tyrosine kinase
+MOL000422,GPX1,glutathione peroxidase 1
+MOL000422,MAPK8,mitogen-activated protein kinase 8
+MOL000422,MARVELD1,MARVEL domain containing 1
+MOL000422,CD69,CD69 molecule
+MOL000422,TGFB1,transforming growth factor beta 1
+MOL000422,GCG,glucagon
+MOL000422,VIM,vimentin
+MOL000422,LGR5,leucine rich repeat containing G protein-coupled receptor 5
+MOL000422,MID1,midline 1
+MOL000422,NPHS1,"NPHS1 adhesion molecule, nephrin"
+MOL000422,IL1B,interleukin 1 beta
+MOL000422,BGLAP,bone gamma-carboxyglutamate protein
+MOL000422,IL2,interleukin 2
+MOL000422,BCL2,BCL2 apoptosis regulator
+MOL000422,IFNG,interferon gamma
+MOL000422,TP53,tumor protein p53
+MOL000422,PRKAA1,protein kinase AMP-activated catalytic subunit alpha 1
+MOL000422,TJP1,tight junction protein 1
+MOL000422,CAT,catalase
+MOL000422,PKM,pyruvate kinase M1/2
+MOL000422,ICAM1,intercellular adhesion molecule 1
+MOL000422,GLI1,GLI family zinc finger 1
+MOL000422,AR,androgen receptor
+MOL000422,SOD1,superoxide dismutase 1
+MOL000422,CYCS,"cytochrome c, somatic"
+MOL000422,SCTR,secretin receptor
+MOL000422,ATP12A,ATPase H+/K+ transporting non-gastric alpha2 subunit
+MOL000422,NR1H3,nuclear receptor subfamily 1 group H member 3
+MOL000422,PRKACA,protein kinase cAMP-activated catalytic subunit alpha
+MOL000422,BAX,"BCL2 associated X, apoptosis regulator"
+MOL000422,SP7,Sp7 transcription factor
+MOL000422,GSK3B,glycogen synthase kinase 3 beta
+MOL000422,CDH2,cadherin 2
+MOL000422,MTOR,mechanistic target of rapamycin kinase
+MOL000422,TNF,tumor necrosis factor
+MOL000422,HSPA5,heat shock protein family A (Hsp70) member 5
+MOL000422,SQSTM1,sequestosome 1
+MOL000422,CXCL8,C-X-C motif chemokine ligand 8
+MOL000422,NOX4,NADPH oxidase 4
+MOL000422,TLR4,toll like receptor 4
+MOL000422,CYP27A1,cytochrome P450 family 27 subfamily A member 1
+MOL000422,RUNX2,RUNX family transcription factor 2
+MOL000422,PRRT2,proline rich transmembrane protein 2
+MOL000422,GABPA,GA binding protein transcription factor subunit alpha
+MOL000422,CTNNB1,catenin beta 1
+MOL000422,LYN,"LYN proto-oncogene, Src family tyrosine kinase"
+MOL000422,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000422,NFE2L2,"nuclear factor, erythroid 2 like 2"
+MOL000422,INS,insulin
+MOL000422,VDAC1,voltage dependent anion channel 1
+MOL000422,MMP9,matrix metallopeptidase 9
+MOL000422,CCL2,C-C motif chemokine ligand 2
+MOL000422,ATF6,activating transcription factor 6
+MOL000422,CYBB,cytochrome b-245 beta chain
+MOL000422,EIF2AK3,eukaryotic translation initiation factor 2 alpha kinase 3
+MOL000422,KDR,kinase insert domain receptor
+MOL000422,GSS,glutathione synthetase
+MOL000422,PPP1R12A,protein phosphatase 1 regulatory subunit 12A
+MOL000422,SOX2,SRY-box transcription factor 2
+MOL000422,SOCS1,suppressor of cytokine signaling 1
+MOL000422,SHH,sonic hedgehog signaling molecule
+MOL000422,IL6,interleukin 6
+MOL000422,MKI67,marker of proliferation Ki-67
+MOL000098,CPNE6,copine 6
+MOL000098,GDF9,growth differentiation factor 9
+MOL000098,IL10,interleukin 10
+MOL000098,NLRP3,NLR family pyrin domain containing 3
+MOL000098,EPHB2,EPH receptor B2
+MOL000098,CASP9,caspase 9
+MOL000098,MIR124-1,microRNA 124-1
+MOL000098,SOD2,superoxide dismutase 2
+MOL000098,HIF1A,hypoxia inducible factor 1 subunit alpha
+MOL000098,IL1A,interleukin 1 alpha
+MOL000098,HDAC4,histone deacetylase 4
+MOL000098,STS,steroid sulfatase
+MOL000098,NOS1,nitric oxide synthase 1
+MOL000098,SREBF1,sterol regulatory element binding transcription factor 1
+MOL000098,MAPK7,mitogen-activated protein kinase 7
+MOL000098,XBP1,X-box binding protein 1
+MOL000098,FGF2,fibroblast growth factor 2
+MOL000098,LILRB1,leukocyte immunoglobulin like receptor B1
+MOL000098,SIRT3,sirtuin 3
+MOL000098,CHUK,component of inhibitor of nuclear factor kappa B kinase complex
+MOL000098,ADA,adenosine deaminase
+MOL000098,TLR3,toll like receptor 3
+MOL000098,ROCK2,Rho associated coiled-coil containing protein kinase 2
+MOL000098,MAPK14,mitogen-activated protein kinase 14
+MOL000098,RICTOR,RPTOR independent companion of MTOR complex 2
+MOL000098,IGF2,insulin like growth factor 2
+MOL000098,GPX4,glutathione peroxidase 4
+MOL000098,PLCG1,phospholipase C gamma 1
+MOL000098,MAPT,microtubule associated protein tau
+MOL000098,LDHB,lactate dehydrogenase B
+MOL000098,SNCA,synuclein alpha
+MOL000098,TACR1,tachykinin receptor 1
+MOL000098,MYH6,myosin heavy chain 6
+MOL000098,DLG2,discs large MAGUK scaffold protein 2
+MOL000098,CLDN5,claudin 5
+MOL000098,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+MOL000098,SYK,spleen associated tyrosine kinase
+MOL000098,VEGFA,vascular endothelial growth factor A
+MOL000098,NQO1,NAD(P)H quinone dehydrogenase 1
+MOL000098,KEAP1,kelch like ECH associated protein 1
+MOL000098,GFAP,glial fibrillary acidic protein
+MOL000098,PXN,paxillin
+MOL000098,ITK,IL2 inducible T cell kinase
+MOL000098,IDO1,"indoleamine 2,3-dioxygenase 1"
+MOL000098,IL17A,interleukin 17A
+MOL000098,PKM,pyruvate kinase M1/2
+MOL000098,HDAC9,histone deacetylase 9
+MOL000098,CASP7,caspase 7
+MOL000098,ABCD3,ATP binding cassette subfamily D member 3
+MOL000098,ADRB3,adrenoceptor beta 3
+MOL000098,ALPP,"alkaline phosphatase, placental"
+MOL000098,CLEC4E,C-type lectin domain family 4 member E
+MOL000098,MYD88,MYD88 innate immune signal transduction adaptor
+MOL000098,NFKB1,nuclear factor kappa B subunit 1
+MOL000098,CASP3,caspase 3
+MOL000098,GCLC,glutamate-cysteine ligase catalytic subunit
+MOL000098,NOS2,nitric oxide synthase 2
+MOL000098,HMOX1,heme oxygenase 1
+MOL000098,RELA,"RELA proto-oncogene, NF-kB subunit"
+MOL000098,HSPA1A,heat shock protein family A (Hsp70) member 1A
+MOL000098,SLC7A11,solute carrier family 7 member 11
+MOL000098,CLPP,caseinolytic mitochondrial matrix peptidase proteolytic subunit
+MOL000098,IFNA1,interferon alpha 1
+MOL000098,BDNF,brain derived neurotrophic factor
+MOL000098,UGT1A1,UDP glucuronosyltransferase family 1 member A1
+MOL000098,ISCU,iron-sulfur cluster assembly enzyme
+MOL000098,AKT1,AKT serine/threonine kinase 1
+MOL000098,IGHE,immunoglobulin heavy constant epsilon
+MOL000098,HMGB1,high mobility group box 1
+MOL000098,NANOS2,nanos C2HC-type zinc finger 2
+MOL000098,DDIT3,DNA damage inducible transcript 3
+MOL000098,PRDX2,peroxiredoxin 2
+MOL000098,SIRT1,sirtuin 1
+MOL000098,FSHR,follicle stimulating hormone receptor
+MOL000098,TERT,telomerase reverse transcriptase
+MOL000098,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1
+MOL000098,BMI1,"BMI1 proto-oncogene, polycomb ring finger"
+MOL000098,NR2F1,nuclear receptor subfamily 2 group F member 1
+MOL000098,CAT,catalase
+MOL000098,CCND1,cyclin D1
+MOL000098,EPHB4,EPH receptor B4
+MOL000098,TXN,thioredoxin
+MOL000098,EPHX2,epoxide hydrolase 2
+MOL000098,MAPK8,mitogen-activated protein kinase 8
+MOL000098,SLPI,secretory leukocyte peptidase inhibitor
+MOL000098,MARVELD1,MARVEL domain containing 1
+MOL000098,MMP2,matrix metallopeptidase 2
+MOL000098,GPRC6A,G protein-coupled receptor class C group 6 member A
+MOL000098,AFP,alpha fetoprotein
+MOL000098,MIR135B,microRNA 135b
+MOL000098,TGFB1,transforming growth factor beta 1
+MOL000098,TLR2,toll like receptor 2
+MOL000098,VIM,vimentin
+MOL000098,JAK2,Janus kinase 2
+MOL000098,CDK2,cyclin dependent kinase 2
+MOL000098,PPARGC1A,PPARG coactivator 1 alpha
+MOL000098,IL1B,interleukin 1 beta
+MOL000098,ABCC3,ATP binding cassette subfamily C member 3
+MOL000098,GATA4,GATA binding protein 4
+MOL000098,CASP1,caspase 1
+MOL000098,BCL2,BCL2 apoptosis regulator
+MOL000098,IL4,interleukin 4
+MOL000098,IGF1,insulin like growth factor 1
+MOL000098,NOS3,nitric oxide synthase 3
+MOL000098,DAPK1,death associated protein kinase 1
+MOL000098,LHCGR,luteinizing hormone/choriogonadotropin receptor
+MOL000098,LDHA,lactate dehydrogenase A
+MOL000098,LEP,leptin
+MOL000098,TP53,tumor protein p53
+MOL000098,TMBIM6,transmembrane BAX inhibitor motif containing 6
+MOL000098,PRKAA1,protein kinase AMP-activated catalytic subunit alpha 1
+MOL000098,DNMT1,DNA methyltransferase 1
+MOL000098,HGF,hepatocyte growth factor
+MOL000098,TJP1,tight junction protein 1
+MOL000098,FASN,fatty acid synthase
+MOL000098,BCAM,basal cell adhesion molecule (Lutheran blood group)
+MOL000098,ICAM1,intercellular adhesion molecule 1
+MOL000098,ABCG2,ATP binding cassette subfamily G member 2 (Junior blood group)
+MOL000098,SCD,stearoyl-CoA desaturase
+MOL000098,SOD1,superoxide dismutase 1
+MOL000098,TMPRSS11D,transmembrane serine protease 11D
+MOL000098,ETV4,ETS variant transcription factor 4
+MOL000098,CYCS,"cytochrome c, somatic"
+MOL000098,SCTR,secretin receptor
+MOL000098,CYP51A1,cytochrome P450 family 51 subfamily A member 1
+MOL000098,MYC,"MYC proto-oncogene, bHLH transcription factor"
+MOL000098,ADIPOR1,adiponectin receptor 1
+MOL000098,PTK2,protein tyrosine kinase 2
+MOL000098,AKR1B1,aldo-keto reductase family 1 member B
+MOL000098,ADIPOQ,"adiponectin, C1Q and collagen domain containing"
+MOL000098,BAX,"BCL2 associated X, apoptosis regulator"
+MOL000098,MAPK1,mitogen-activated protein kinase 1
+MOL000098,STAT3,signal transducer and activator of transcription 3
+MOL000098,BRD2,bromodomain containing 2
+MOL000098,ADAM10,ADAM metallopeptidase domain 10
+MOL000098,PLOD1,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 1"
+MOL000098,PDK4,pyruvate dehydrogenase kinase 4
+MOL000098,TREM2,triggering receptor expressed on myeloid cells 2
+MOL000098,TFAM,"transcription factor A, mitochondrial"
+MOL000098,LEPR,leptin receptor
+MOL000098,TNF,tumor necrosis factor
+MOL000098,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit"
+MOL000098,IL22,interleukin 22
+MOL000098,HSPA5,heat shock protein family A (Hsp70) member 5
+MOL000098,EHMT2,euchromatic histone lysine methyltransferase 2
+MOL000098,BMP15,bone morphogenetic protein 15
+MOL000098,STC1,stanniocalcin 1
+MOL000098,AHR,aryl hydrocarbon receptor
+MOL000098,PRRT2,proline rich transmembrane protein 2
+MOL000098,NGF,nerve growth factor
+MOL000098,MEF2A,myocyte enhancer factor 2A
+MOL000098,IL9,interleukin 9
+MOL000098,GGT1,gamma-glutamyltransferase 1
+MOL000098,TLR4,toll like receptor 4
+MOL000098,SYT1,synaptotagmin 1
+MOL000098,MAPK3,mitogen-activated protein kinase 3
+MOL000098,GABPA,GA binding protein transcription factor subunit alpha
+MOL000098,CYP21A2,cytochrome P450 family 21 subfamily A member 2
+MOL000098,APP,amyloid beta precursor protein
+MOL000098,CTNNB1,catenin beta 1
+MOL000098,LYN,"LYN proto-oncogene, Src family tyrosine kinase"
+MOL000098,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000098,CYP4A11,cytochrome P450 family 4 subfamily A member 11
+MOL000098,GLB1,galactosidase beta 1
+MOL000098,CASP8,caspase 8
+MOL000098,AR,androgen receptor
+MOL000098,MMP9,matrix metallopeptidase 9
+MOL000098,DLG4,discs large MAGUK scaffold protein 4
+MOL000098,ATF6,activating transcription factor 6
+MOL000098,EFNB2,ephrin B2
+MOL000098,TFEB,transcription factor EB
+MOL000098,PPARA,peroxisome proliferator activated receptor alpha
+MOL000098,IL18,interleukin 18
+MOL000098,CRP,C-reactive protein
+MOL000098,GPX1,glutathione peroxidase 1
+MOL000098,NFATC4,nuclear factor of activated T cells 4
+MOL000098,ALB,albumin
+MOL000098,AREG,amphiregulin
+MOL000098,SARDH,sarcosine dehydrogenase
+MOL000098,IL6,interleukin 6
+MOL000098,GCLM,glutamate-cysteine ligase modifier subunit
+MOL000098,MIR21,microRNA 21
+MOL000098,TREM1,triggering receptor expressed on myeloid cells 1
+MOL000098,KPNA1,karyopherin subunit alpha 1
+MOL000098,MMP12,matrix metallopeptidase 12
+MOL000098,PANX1,pannexin 1
+MOL000098,ALPL,"alkaline phosphatase, biomineralization associated"
+MOL000098,MAPK9,mitogen-activated protein kinase 9
+MOL000098,PARP1,poly(ADP-ribose) polymerase 1
+MOL000211,STAT1,signal transducer and activator of transcription 1
+MOL000211,TNFSF11,TNF superfamily member 11
+MOL000211,AXIN2,axin 2
+MOL000211,NFKB1,nuclear factor kappa B subunit 1
+MOL000211,EPHB2,EPH receptor B2
+MOL000211,SOD2,superoxide dismutase 2
+MOL000211,NFATC1,nuclear factor of activated T cells 1
+MOL000211,COX2,cytochrome c oxidase subunit II
+MOL000211,KEAP1,kelch like ECH associated protein 1
+MOL000211,ESR2,estrogen receptor 2
+MOL000211,GABPA,GA binding protein transcription factor subunit alpha
+MOL000211,S100A4,S100 calcium binding protein A4
+MOL000211,WNT3A,Wnt family member 3A
+MOL000211,HMOX1,heme oxygenase 1
+MOL000211,LRP6,LDL receptor related protein 6
+MOL000211,SOD1,superoxide dismutase 1
+MOL000211,MAPK14,mitogen-activated protein kinase 14
+MOL000211,SOCS1,suppressor of cytokine signaling 1
+MOL000211,CTNNB1,catenin beta 1
+MOL000211,JAK1,Janus kinase 1
+MOL000211,COL1A1,collagen type I alpha 1 chain
+MOL000211,DVL2,dishevelled segment polarity protein 2
+MOL000211,SOAT1,sterol O-acyltransferase 1
+MOL000211,CCND1,cyclin D1
+MOL000211,MRPS33,mitochondrial ribosomal protein S33
+MOL000211,LCK,"LCK proto-oncogene, Src family tyrosine kinase"
+MOL000211,HIF3A,hypoxia inducible factor 3 subunit alpha
+MOL000211,NRF1,nuclear respiratory factor 1
+MOL000211,RPSA,ribosomal protein SA
+MOL000211,MAPK8,mitogen-activated protein kinase 8
+MOL000211,MPO,myeloperoxidase
+MOL000211,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit"
+MOL000211,MMP1,matrix metallopeptidase 1
+MOL000433,ALDH1A1,aldehyde dehydrogenase 1 family member A1
+MOL000433,APEX1,apurinic/apyrimidinic endodeoxyribonuclease 1
+MOL000433,AR,androgen receptor
+MOL000433,CASP3,caspase 3
+MOL000433,CDK2,cyclin dependent kinase 2
+MOL000433,CYP2C9,cytochrome P450 family 2 subfamily C member 9
+MOL000433,CYP2D6,cytochrome P450 family 2 subfamily D member 6
+MOL000433,CYP3A4,cytochrome P450 family 3 subfamily A member 4
+MOL000433,FOLH1,folate hydrolase 1
+MOL000433,FPGS,folylpolyglutamate synthase
+MOL000433,GAA,"glucosidase alpha, acid"
+MOL000433,GBA,glucosylceramidase beta
+MOL000433,GLA,galactosidase alpha
+MOL000433,GLP1R,glucagon like peptide 1 receptor
+MOL000433,GSK3B,glycogen synthase kinase 3 beta
+MOL000433,HSD17B10,hydroxysteroid 17-beta dehydrogenase 10
+MOL000433,HPGD,15-hydroxyprostaglandin dehydrogenase
+MOL000433,HSD11B2,hydroxysteroid 11-beta dehydrogenase 2
+MOL000433,IGF2,insulin like growth factor 2
+MOL000433,KMT2A,lysine methyltransferase 2A
+MOL000433,NFE2L2,"nuclear factor, erythroid 2 like 2"
+MOL000433,POLB,DNA polymerase beta
+MOL000433,SHMT2,serine hydroxymethyltransferase 2
+MOL000433,SLC22A1,solute carrier family 22 member 1
+MOL000433,SMPD1,sphingomyelin phosphodiesterase 1
+MOL000433,SNCA,synuclein alpha
+MOL000433,TSHR,thyroid stimulating hormone receptor
+MOL000433,TYMS,thymidylate synthetase
+MOL000433,USP1,ubiquitin specific peptidase 1
+MOL000433,ABCB11,ATP binding cassette subfamily B member 11
+MOL000433,ABCC4,ATP binding cassette subfamily C member 4
+MOL000433,SLCO1B1,solute carrier organic anion transporter family member 1B1
+MOL000433,SLCO1B3,solute carrier organic anion transporter family member 1B3
+MOL000433,TDP1,tyrosyl-DNA phosphodiesterase 1
+MOL000433,KDM4E,lysine demethylase 4E
+MOL000433,SFTPA1,surfactant protein A1
+MOL000296,CD86,CD86 molecule
+MOL000296,NOS2,nitric oxide synthase 2
+MOL000296,NLRP3,NLR family pyrin domain containing 3
+MOL000296,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000296,IL1B,interleukin 1 beta
+MOL000296,TNFSF11,TNF superfamily member 11
+MOL000296,GPA33,glycoprotein A33
+MOL000296,IL6,interleukin 6
+MOL000296,IL18,interleukin 18
+MOL000296,EPHB2,EPH receptor B2
+MOL000296,NFATC1,nuclear factor of activated T cells 1
+MOL000296,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit"
+MOL000296,CCL2,C-C motif chemokine ligand 2
+MOL000296,GSK3B,glycogen synthase kinase 3 beta
+MOL000296,MAPK14,mitogen-activated protein kinase 14
+MOL000296,TNF,tumor necrosis factor
+MOL000296,FOXO3,forkhead box O3
+MOL000033,AR,androgen receptor
+MOL000033,ESR1,estrogen receptor 1
+MOL000033,PGR,progesterone receptor
+MOL000239,AR,androgen receptor
+MOL000239,CA2,carbonic anhydrase 2
+MOL000239,CALM3,calmodulin 3
+MOL000239,CCNA2,cyclin A2
+MOL000239,CDK2,cyclin dependent kinase 2
+MOL000239,CHEK1,checkpoint kinase 1
+MOL000239,MAPK14,mitogen-activated protein kinase 14
+MOL000239,DPP4,dipeptidyl peptidase 4
+MOL000239,ESR1,estrogen receptor 1
+MOL000239,ESR2,estrogen receptor 2
+MOL000239,GSK3B,glycogen synthase kinase 3 beta
+MOL000239,NOS2,nitric oxide synthase 2
+MOL000239,PIM1,"Pim-1 proto-oncogene, serine/threonine kinase"
+MOL000239,PPARG,peroxisome proliferator activated receptor gamma
+MOL000239,PRSS1,serine protease 1
+MOL000239,PTGS1,prostaglandin-endoperoxide synthase 1
+MOL000239,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000239,PTPN1,protein tyrosine phosphatase non-receptor type 1
+MOL000239,SCN5A,sodium voltage-gated channel alpha subunit 5
+MOL000239,NCOA2,nuclear receptor coactivator 2
+MOL000354,IL1B,interleukin 1 beta
+MOL000354,BMPR2,bone morphogenetic protein receptor type 2
+MOL000354,CASP3,caspase 3
+MOL000354,BCL2,BCL2 apoptosis regulator
+MOL000354,SMAD1,SMAD family member 1
+MOL000354,GABPA,GA binding protein transcription factor subunit alpha
+MOL000354,AHR,aryl hydrocarbon receptor
+MOL000354,RELA,"RELA proto-oncogene, NF-kB subunit"
+MOL000354,CAT,catalase
+MOL000354,SOD1,superoxide dismutase 1
+MOL000354,ID3,"inhibitor of DNA binding 3, HLH protein"
+MOL000354,CHKA,choline kinase alpha
+MOL000354,COL1A1,collagen type I alpha 1 chain
+MOL000354,LDHB,lactate dehydrogenase B
+MOL000354,GPX1,glutathione peroxidase 1
+MOL000354,BAX,"BCL2 associated X, apoptosis regulator"
+MOL000354,SMAD5,SMAD family member 5
+MOL000354,CFTR,CF transmembrane conductance regulator
+MOL000354,IL13,interleukin 13
+MOL000354,IL6,interleukin 6
+MOL000354,ID1,"inhibitor of DNA binding 1, HLH protein"
+MOL000354,TNF,tumor necrosis factor
+MOL000354,TGFB1,transforming growth factor beta 1
+MOL000354,CXCL8,C-X-C motif chemokine ligand 8
+MOL000371,ACHE,acetylcholinesterase (Cartwright blood group)
+MOL000371,ADRA1D,adrenoceptor alpha 1D
+MOL000371,ADRA1B,adrenoceptor alpha 1B
+MOL000371,ADRA2C,adrenoceptor alpha 2C
+MOL000371,ADRB1,adrenoceptor beta 1
+MOL000371,ADRB2,adrenoceptor beta 2
+MOL000371,AR,androgen receptor
+MOL000371,CA2,carbonic anhydrase 2
+MOL000371,CALM3,calmodulin 3
+MOL000371,CCNA2,cyclin A2
+MOL000371,CDK2,cyclin dependent kinase 2
+MOL000371,CHEK1,checkpoint kinase 1
+MOL000371,CHRM1,cholinergic receptor muscarinic 1
+MOL000371,CHRM3,cholinergic receptor muscarinic 3
+MOL000371,MAPK14,mitogen-activated protein kinase 14
+MOL000371,DPP4,dipeptidyl peptidase 4
+MOL000371,ESR1,estrogen receptor 1
+MOL000371,ESR2,estrogen receptor 2
+MOL000371,GABRA1,gamma-aminobutyric acid type A receptor subunit alpha1
+MOL000371,GSK3B,glycogen synthase kinase 3 beta
+MOL000371,HTR3A,5-hydroxytryptamine receptor 3A
+MOL000371,NOS2,nitric oxide synthase 2
+MOL000371,OPRM1,opioid receptor mu 1
+MOL000371,PDE3A,phosphodiesterase 3A
+MOL000371,PIM1,"Pim-1 proto-oncogene, serine/threonine kinase"
+MOL000371,PPARG,peroxisome proliferator activated receptor gamma
+MOL000371,PRSS1,serine protease 1
+MOL000371,PTGS1,prostaglandin-endoperoxide synthase 1
+MOL000371,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000371,RXRA,retinoid X receptor alpha
+MOL000371,SCN5A,sodium voltage-gated channel alpha subunit 5
+MOL000371,NCOA2,nuclear receptor coactivator 2
+MOL000380,ACHE,acetylcholinesterase (Cartwright blood group)
+MOL000380,ADRA1D,adrenoceptor alpha 1D
+MOL000380,ADRA1B,adrenoceptor alpha 1B
+MOL000380,ADRB2,adrenoceptor beta 2
+MOL000380,AR,androgen receptor
+MOL000380,CA2,carbonic anhydrase 2
+MOL000380,CALM3,calmodulin 3
+MOL000380,CCNA2,cyclin A2
+MOL000380,CDK2,cyclin dependent kinase 2
+MOL000380,CHEK1,checkpoint kinase 1
+MOL000380,CHRM1,cholinergic receptor muscarinic 1
+MOL000380,CHRM3,cholinergic receptor muscarinic 3
+MOL000380,CHRM4,cholinergic receptor muscarinic 4
+MOL000380,CHRNA7,cholinergic receptor nicotinic alpha 7 subunit
+MOL000380,MAPK14,mitogen-activated protein kinase 14
+MOL000380,DPP4,dipeptidyl peptidase 4
+MOL000380,ESR1,estrogen receptor 1
+MOL000380,ESR2,estrogen receptor 2
+MOL000380,GABRA1,gamma-aminobutyric acid type A receptor subunit alpha1
+MOL000380,GSK3B,glycogen synthase kinase 3 beta
+MOL000380,HTR3A,5-hydroxytryptamine receptor 3A
+MOL000380,NOS2,nitric oxide synthase 2
+MOL000380,PIM1,"Pim-1 proto-oncogene, serine/threonine kinase"
+MOL000380,PPARG,peroxisome proliferator activated receptor gamma
+MOL000380,PRSS1,serine protease 1
+MOL000380,PTGS1,prostaglandin-endoperoxide synthase 1
+MOL000380,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000380,RXRA,retinoid X receptor alpha
+MOL000380,SCN5A,sodium voltage-gated channel alpha subunit 5
+MOL000380,NCOA1,nuclear receptor coactivator 1
+MOL000380,NCOA2,nuclear receptor coactivator 2
+MOL000387,AR,androgen receptor
+MOL000387,CDK2,cyclin dependent kinase 2
+MOL000387,DPP4,dipeptidyl peptidase 4
+MOL000387,ESR1,estrogen receptor 1
+MOL000387,GSK3B,glycogen synthase kinase 3 beta
+MOL000387,KDR,kinase insert domain receptor
+MOL000387,MET,"MET proto-oncogene, receptor tyrosine kinase"
+MOL000387,NOS2,nitric oxide synthase 2
+MOL000387,PTGS1,prostaglandin-endoperoxide synthase 1
+MOL000387,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000392,MFN2,mitofusin 2
+MOL000392,PPARGC1A,PPARG coactivator 1 alpha
+MOL000392,EGFR,epidermal growth factor receptor
+MOL000392,AHR,aryl hydrocarbon receptor
+MOL000392,NFKB1,nuclear factor kappa B subunit 1
+MOL000392,CCL5,C-C motif chemokine ligand 5
+MOL000392,CASP3,caspase 3
+MOL000392,HMOX1,heme oxygenase 1
+MOL000392,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+MOL000392,BCL2,BCL2 apoptosis regulator
+MOL000392,KEAP1,kelch like ECH associated protein 1
+MOL000392,IL4,interleukin 4
+MOL000392,SCTR,secretin receptor
+MOL000392,GABPA,GA binding protein transcription factor subunit alpha
+MOL000392,CCL11,C-C motif chemokine ligand 11
+MOL000392,NOS2,nitric oxide synthase 2
+MOL000392,MCL1,"MCL1 apoptosis regulator, BCL2 family member"
+MOL000392,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000392,IL1B,interleukin 1 beta
+MOL000392,CD274,CD274 molecule
+MOL000392,PARL,presenilin associated rhomboid like
+MOL000392,TJP1,tight junction protein 1
+MOL000392,FBXW7,F-box and WD repeat domain containing 7
+MOL000392,PRKN,parkin RBR E3 ubiquitin protein ligase
+MOL000392,MSR1,macrophage scavenger receptor 1
+MOL000392,SOD1,superoxide dismutase 1
+MOL000392,FIS1,"fission, mitochondrial 1"
+MOL000392,PHB2,prohibitin 2
+MOL000392,AKT1,AKT serine/threonine kinase 1
+MOL000392,CRMP1,collapsin response mediator protein 1
+MOL000392,MYC,"MYC proto-oncogene, bHLH transcription factor"
+MOL000392,SIRT1,sirtuin 1
+MOL000392,BAX,"BCL2 associated X, apoptosis regulator"
+MOL000392,STAT3,signal transducer and activator of transcription 3
+MOL000392,MYOG,myogenin
+MOL000392,GSK3B,glycogen synthase kinase 3 beta
+MOL000392,PGAM5,"PGAM family member 5, mitochondrial serine/threonine protein phosphatase"
+MOL000392,IL5,interleukin 5
+MOL000392,FOXO3,forkhead box O3
+MOL000392,PINK1,PTEN induced kinase 1
+MOL000392,IL13,interleukin 13
+MOL000392,IL6,interleukin 6
+MOL000392,TNF,tumor necrosis factor
+MOL000392,MYOD1,myogenic differentiation 1
+MOL000392,IL17A,interleukin 17A
+MOL000417,ADRB2,adrenoceptor beta 2
+MOL000417,AR,androgen receptor
+MOL000417,CA2,carbonic anhydrase 2
+MOL000417,CALM3,calmodulin 3
+MOL000417,CCNA2,cyclin A2
+MOL000417,CDK2,cyclin dependent kinase 2
+MOL000417,CHEK1,checkpoint kinase 1
+MOL000417,MAPK14,mitogen-activated protein kinase 14
+MOL000417,DPEP1,dipeptidase 1
+MOL000417,DPP4,dipeptidyl peptidase 4
+MOL000417,ESR1,estrogen receptor 1
+MOL000417,ESR2,estrogen receptor 2
+MOL000417,GSK3B,glycogen synthase kinase 3 beta
+MOL000417,NOS2,nitric oxide synthase 2
+MOL000417,PDE3A,phosphodiesterase 3A
+MOL000417,PIM1,"Pim-1 proto-oncogene, serine/threonine kinase"
+MOL000417,PPARG,peroxisome proliferator activated receptor gamma
+MOL000417,PRSS1,serine protease 1
+MOL000417,PTGS1,prostaglandin-endoperoxide synthase 1
+MOL000417,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000417,RXRA,retinoid X receptor alpha
+MOL000417,SCN5A,sodium voltage-gated channel alpha subunit 5
+MOL000442,AR,androgen receptor
+MOL000442,CCNA2,cyclin A2
+MOL000442,CDK2,cyclin dependent kinase 2
+MOL000442,CHEK1,checkpoint kinase 1
+MOL000442,MAPK14,mitogen-activated protein kinase 14
+MOL000442,ESR1,estrogen receptor 1
+MOL000442,ESR2,estrogen receptor 2
+MOL000442,GSK3B,glycogen synthase kinase 3 beta
+MOL000442,NOS2,nitric oxide synthase 2
+MOL000442,PIM1,"Pim-1 proto-oncogene, serine/threonine kinase"
+MOL000442,PPARG,peroxisome proliferator activated receptor gamma
+MOL000442,PRSS1,serine protease 1
+MOL000442,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000442,RXRA,retinoid X receptor alpha
+MOL000422,ACHE,acetylcholinesterase (Cartwright blood group)
+MOL000422,ADRA1B,adrenoceptor alpha 1B
+MOL000422,AHR,aryl hydrocarbon receptor
+MOL000422,ALOX5,arachidonate 5-lipoxygenase
+MOL000422,CA2,carbonic anhydrase 2
+MOL000422,CALM3,calmodulin 3
+MOL000422,CCNA2,cyclin A2
+MOL000422,CDK1,cyclin dependent kinase 1
+MOL000422,CDK2,cyclin dependent kinase 2
+MOL000422,CHEK1,checkpoint kinase 1
+MOL000422,CHRM1,cholinergic receptor muscarinic 1
+MOL000422,CHRM2,cholinergic receptor muscarinic 2
+MOL000422,CYP1A1,cytochrome P450 family 1 subfamily A member 1
+MOL000422,CYP1A2,cytochrome P450 family 1 subfamily A member 2
+MOL000422,CYP1B1,cytochrome P450 family 1 subfamily B member 1
+MOL000422,CYP3A4,cytochrome P450 family 3 subfamily A member 4
+MOL000422,DIO1,iodothyronine deiodinase 1
+MOL000422,DPEP1,dipeptidase 1
+MOL000422,DPP4,dipeptidyl peptidase 4
+MOL000422,ESR1,estrogen receptor 1
+MOL000422,ESR2,estrogen receptor 2
+MOL000422,F7,coagulation factor VII
+MOL000422,GABRA1,gamma-aminobutyric acid type A receptor subunit alpha1
+MOL000422,GSTM1,glutathione S-transferase mu 1
+MOL000422,GSTM2,glutathione S-transferase mu 2
+MOL000422,GSTP1,glutathione S-transferase pi 1
+MOL000422,HAS2,hyaluronan synthase 2
+MOL000422,IKBKB,inhibitor of nuclear factor kappa B kinase subunit beta
+MOL000422,INSR,insulin receptor
+MOL000422,JUN,"Jun proto-oncogene, AP-1 transcription factor subunit"
+MOL000422,MMP1,matrix metallopeptidase 1
+MOL000422,NOS2,nitric oxide synthase 2
+MOL000422,PGR,progesterone receptor
+MOL000422,PIM1,"Pim-1 proto-oncogene, serine/threonine kinase"
+MOL000422,POLD1,"DNA polymerase delta 1, catalytic subunit"
+MOL000422,PPARG,peroxisome proliferator activated receptor gamma
+MOL000422,PPP3CA,protein phosphatase 3 catalytic subunit alpha
+MOL000422,PRSS1,serine protease 1
+MOL000422,PSMD3,"proteasome 26S subunit, non-ATPase 3"
+MOL000422,PTGS1,prostaglandin-endoperoxide synthase 1
+MOL000422,SELE,selectin E
+MOL000422,SLC2A4,solute carrier family 2 member 4
+MOL000422,SLC6A2,solute carrier family 6 member 2
+MOL000422,SLPI,secretory leukocyte peptidase inhibitor
+MOL000422,STAT1,signal transducer and activator of transcription 1
+MOL000422,VCAM1,vascular cell adhesion molecule 1
+MOL000422,XDH,xanthine dehydrogenase
+MOL000422,AKR1C3,aldo-keto reductase family 1 member C3
+MOL000422,NR1I2,nuclear receptor subfamily 1 group I member 2
+MOL000422,NR1I3,nuclear receptor subfamily 1 group I member 3
+MOL000422,NCOA2,nuclear receptor coactivator 2
+MOL000422,AHSA1,activator of HSP90 ATPase activity 1
+MOL000354,STAT1,signal transducer and activator of transcription 1
+MOL000354,NFKB1,nuclear factor kappa B subunit 1
+MOL000354,CCL5,C-C motif chemokine ligand 5
+MOL000354,EPHB2,EPH receptor B2
+MOL000354,SOD2,superoxide dismutase 2
+MOL000354,CSK,C-terminal Src kinase
+MOL000354,KEAP1,kelch like ECH associated protein 1
+MOL000354,WEE1,WEE1 G2 checkpoint kinase
+MOL000354,HMOX1,heme oxygenase 1
+MOL000354,TYK2,tyrosine kinase 2
+MOL000354,CCL2,C-C motif chemokine ligand 2
+MOL000354,AIF1,allograft inflammatory factor 1
+MOL000354,TRPC6,transient receptor potential cation channel subfamily C member 6
+MOL000354,BMP2,bone morphogenetic protein 2
+MOL000354,ITGAM,integrin subunit alpha M
+MOL000354,RYR2,ryanodine receptor 2
+MOL000354,GTF2H1,general transcription factor IIH subunit 1
+MOL000354,MAPK8,mitogen-activated protein kinase 8
+MOL000354,TRPC3,transient receptor potential cation channel subfamily C member 3
+MOL000378,ADRA1D,adrenoceptor alpha 1D
+MOL000378,ADRA1B,adrenoceptor alpha 1B
+MOL000378,ADRA1A,adrenoceptor alpha 1A
+MOL000378,ADRA2C,adrenoceptor alpha 2C
+MOL000378,ADRB1,adrenoceptor beta 1
+MOL000378,ADRB2,adrenoceptor beta 2
+MOL000378,AR,androgen receptor
+MOL000378,CA2,carbonic anhydrase 2
+MOL000378,CALM3,calmodulin 3
+MOL000378,CCNA2,cyclin A2
+MOL000378,CDK2,cyclin dependent kinase 2
+MOL000378,CHEK1,checkpoint kinase 1
+MOL000378,CHRM1,cholinergic receptor muscarinic 1
+MOL000378,CHRM2,cholinergic receptor muscarinic 2
+MOL000378,CHRM3,cholinergic receptor muscarinic 3
+MOL000378,CHRM4,cholinergic receptor muscarinic 4
+MOL000378,CHRM5,cholinergic receptor muscarinic 5
+MOL000378,MAPK14,mitogen-activated protein kinase 14
+MOL000378,DPP4,dipeptidyl peptidase 4
+MOL000378,DRD1,dopamine receptor D1
+MOL000378,ESR1,estrogen receptor 1
+MOL000378,ESR2,estrogen receptor 2
+MOL000378,GABRA1,gamma-aminobutyric acid type A receptor subunit alpha1
+MOL000378,GSK3B,glycogen synthase kinase 3 beta
+MOL000378,KCNH2,potassium voltage-gated channel subfamily H member 2
+MOL000378,NOS2,nitric oxide synthase 2
+MOL000378,OPRD1,opioid receptor delta 1
+MOL000378,PDE3A,phosphodiesterase 3A
+MOL000378,PIM1,"Pim-1 proto-oncogene, serine/threonine kinase"
+MOL000378,PPARG,peroxisome proliferator activated receptor gamma
+MOL000378,PRSS1,serine protease 1
+MOL000378,PTGS1,prostaglandin-endoperoxide synthase 1
+MOL000378,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000378,RXRA,retinoid X receptor alpha
+MOL000378,RXRB,retinoid X receptor beta
+MOL000378,SCN5A,sodium voltage-gated channel alpha subunit 5
+MOL000378,SLC6A3,solute carrier family 6 member 3
+MOL000378,SLC6A4,solute carrier family 6 member 4
+MOL000378,NCOA2,nuclear receptor coactivator 2
+MOL000379,CA2,carbonic anhydrase 2
+MOL000379,CCNA2,cyclin A2
+MOL000379,PTGS2,prostaglandin-endoperoxide synthase 2
+MOL000379,NCOA2,nuclear receptor coactivator 2

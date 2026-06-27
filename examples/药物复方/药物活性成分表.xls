@@ -1,0 +1,97 @@
+Herb_name	Mol_ID	Molecule_Name	MW	AlogP	Hdon	Hacc	OB (%)	Caco-2	BBB	DL	FASA-	HL
+Ginseng Stem and Leaf Saponins	MOL005348	Ginsenoside-Rh4_qt	458.8	5.586	3	3	31.11214828	0.49755	-0.18125	0.77829	0.248614	6.973089
+Ginseng Stem and Leaf Saponins	MOL005401	ginsenoside Rg5_qt	442.8	6.801	2	2	39.56307142	0.87742	0.21243	0.78506	0.23863101	5.654164
+Ginseng Stem and Leaf Saponins	MOL006733	ginsenoside-F2	785.14	2.223	9	13	37.02627309	-2.0367	-2.98725	0.25353	0.24945091	10.726427
+Ginseng Stem and Leaf Saponins	MOL007475	ginsenoside f2	785.14	2.296	9	13	36.43174722	-1.79802	-3.03499	0.25282	0.22456476	13.113281
+Ginseng Stem and Leaf Saponins	MOL012648	ginsenoside Rg7	801.14	1.248	10	14	34.00008478	-2.45996	-3.38262	0.24406	0.23486051	14.348335
+Ginseng Stem and Leaf Saponins	MOL012858	Vina-ginsenoside R1	843.18	1.092	8	15	44.97384305	-1.89762	-2.83688	0.17263	0.23961683	9.68244
+Ginseng Stem and Leaf Saponins	MOL012860	Vina-ginsenoside R2	829.15	0.715	8	15	46.67131096	-1.83928	-2.39411	0.18401	0.20816737	8.085523
+Danshen	MOL001601	"1,2,5,6-tetrahydrotanshinone"	280.34	2.98	0	3	38.75	0.96	0.39	0.36	0.33	18.05
+Danshen	MOL001659	Poriferasterol	412.77	7.64	1	1	43.83	1.44	1.03	0.76	0.22	5.34
+Danshen	MOL001771	poriferast-5-en-3beta-ol	414.79	8.08	1	1	36.91	1.45	1.14	0.75	0	5.07
+Danshen	MOL001942	isoimperatorin	270.3	3.65	0	4	45.46	0.97	0.66	0.23	0.27	-1.44
+Danshen	MOL002222	sugiol	300.48	4.99	1	2	36.11	1.14	0.7	0.28	0.27	14.62
+Danshen	MOL002651	Dehydrotanshinone II A	292.35	4.22	0	3	43.76	1.02	0.52	0.4	0.33	23.71
+Danshen	MOL002776	Baicalin	446.39	0.64	6	11	40.12	-0.85	-1.74	0.75	0.36	17.36
+Danshen	MOL000569	digallate	322.24	1.53	6	9	61.85	-0.76	-1.52	0.26	0.43	5.29
+Danshen	MOL000006	luteolin	286.25	2.07	4	6	36.16	0.19	-0.84	0.25	0.39	15.94
+Danshen	MOL006824	alpha-amyrin	426.8	7.35	1	1	39.51	1.37	1.2	0.76	0.23	3.06
+Danshen	MOL007036	"5,6-dihydroxy-7-isopropyl-1,1-dimethyl-2,3-dihydrophenanthren-4-one"	298.41	4.38	2	3	33.77	1.19	0.8	0.29	0.29	14.91
+Danshen	MOL007041	"2-isopropyl-8-methylphenanthrene-3,4-dione"	264.34	4.16	0	2	40.86	1.23	0.81	0.23	0.43	14.89
+Danshen	MOL007045	3alpha-hydroxytanshinone	310.37	3.56	1	4	44.93	0.53	0.22	0.44	0.3	23.78
+Danshen	MOL007048	"(E)-3-[2-(3,4-dihydroxyphenyl)-7-hydroxy-benzofuran-4-yl]acrylic acid"	312.29	3.21	4	6	48.24	0.18	-0.89	0.31	0.4	8.87
+Danshen	MOL007049	4-methylenemiltirone	266.36	4.33	0	2	34.35	1.25	0.87	0.23	0.38	14.6
+Danshen	MOL007050	2-(4-hydroxy-3-methoxyphenyl)-5-(3-hydroxypropyl)-7-methoxy-3-benzofurancarboxaldehyde	356.4	3.58	2	6	62.78	0.35	-0.73	0.4	0.24	7.89
+Danshen	MOL007051	6-o-syringyl-8-o-acetyl shanzhiside methyl ester	628.64	-1.13	5	16	46.69	-1.73	-2.08	0.71	0.22	9.94
+Danshen	MOL007058	formyltanshinone	290.28	3.36	0	4	73.44	0.54	-0.28	0.42	0.41	24.12
+Danshen	MOL007059	3-beta-Hydroxymethyllenetanshiquinone	294.32	3.16	1	4	32.16	0.38	-0.48	0.41	0.36	22.51
+Danshen	MOL007061	Methylenetanshinquinone	278.32	4.26	0	3	37.07	1.03	0.46	0.36	0.36	24.33
+Danshen	MOL007063	przewalskin a	398.49	2.25	1	6	37.11	-0.26	-0.69	0.65	0.38	1.63
+Danshen	MOL007064	przewalskin b	330.46	3.18	1	4	110.32	0.34	0.22	0.44	0.32	2.17
+Danshen	MOL007068	Przewaquinone B	292.3	2.99	1	4	62.24	0.39	-0.45	0.41	0.38	24.94
+Danshen	MOL007069	przewaquinone c	296.34	3.31	1	4	55.74	0.42	-0.3	0.4	0.32	23.7
+Danshen	MOL007070	"(6S,7R)-6,7-dihydroxy-1,6-dimethyl-8,9-dihydro-7H-naphtho[8,7-g]benzofuran-10,11-dione"	312.34	2.34	2	5	41.31	-0.06	-0.68	0.45	0.32	22.54
+Danshen	MOL007071	przewaquinone f	312.34	2.07	2	5	40.31	-0.09	-0.9	0.46	0.29	22.45
+Danshen	MOL007077	sclareol	308.56	4.27	2	2	43.67	0.84	0.51	0.21	0.27	4.71
+Danshen	MOL007079	tanshinaldehyde	308.35	3.83	0	4	52.47	0.57	-0.07	0.45	0.32	23.49
+Danshen	MOL007081	Danshenol B	354.48	2.59	1	4	57.95	0.53	0.11	0.56	0.3	4.28
+Danshen	MOL007082	Danshenol A	336.41	2.01	1	4	56.97	0.33	-0.01	0.52	0.34	5.15
+Danshen	MOL007085	Salvilenone	292.4	4.26	0	2	30.38	1.46	1.07	0.38	0.35	20.81
+Danshen	MOL007088	cryptotanshinone	296.39	3.44	0	3	52.34	0.95	0.51	0.4	0.29	17.3
+Danshen	MOL007093	dan-shexinkum d	336.41	2.83	1	4	38.88	0.67	-0.15	0.55	0.35	30
+Danshen	MOL007094	danshenspiroketallactone	282.36	3.24	0	3	50.43	0.88	0.51	0.31	0.34	15.19
+Danshen	MOL007098	deoxyneocryptotanshinone	298.41	4.32	1	3	49.4	0.85	0.24	0.29	0.3	27.17
+Danshen	MOL007100	dihydrotanshinlactone	266.31	2.77	0	3	38.68	1.26	0.81	0.32	0.38	5.42
+Danshen	MOL007101	dihydrotanshinone¢ñ	278.32	2.86	0	3	45.04	0.95	0.43	0.36	0.4	18.32
+Danshen	MOL007105	epidanshenspiroketallactone	284.38	2.37	0	3	68.27	0.9	0.61	0.31	0.33	1.77
+Danshen	MOL007107	C09092	286.5	5.98	1	1	36.07	1.63	1.54	0.25	0.25	-0.16
+Danshen	MOL007108	isocryptotanshi-none	296.39	3.59	0	3	54.98	0.93	0.34	0.39	0.3	31.92
+Danshen	MOL007111	Isotanshinone II	294.37	4.66	0	3	49.92	1.03	0.45	0.4	0.3	24.73
+Danshen	MOL007115	manool	304.57	5.5	1	1	45.04	1.28	1.16	0.2	0.28	5.81
+Danshen	MOL007118	microstegiol	298.46	4.75	1	2	39.61	1.05	0.99	0.28	0.33	4.52
+Danshen	MOL007119	miltionone ¢ñ	312.39	3.33	1	4	49.68	0.35	-0.11	0.32	0.35	41.49
+Danshen	MOL007120	miltionone ¢ò	312.39	2.14	1	4	71.03	0.62	0.03	0.44	0.28	2.91
+Danshen	MOL007121	miltipolone	300.43	2.74	1	3	36.56	0.5	0.17	0.37	0.3	1.7
+Danshen	MOL007122	Miltirone	282.41	4.73	0	2	38.76	1.23	0.87	0.25	0.32	14.82
+Danshen	MOL007123	miltirone	272.32	0.77	1	4	44.95	0.04	-0.25	0.24	0.35	2.24
+Danshen	MOL007124	neocryptotanshinone ii	270.35	3.61	1	3	39.46	0.76	0.16	0.23	0.32	26.98
+Danshen	MOL007125	neocryptotanshinone	314.41	3.01	2	4	52.49	0.35	-0.13	0.32	0.28	14.46
+Danshen	MOL007127	"1-methyl-8,9-dihydro-7H-naphtho[5,6-g]benzofuran-6,10,11-trione"	280.29	3.21	0	4	34.72	0.5	-0.27	0.37	0.33	37.89
+Danshen	MOL007130	prolithospermic acid	314.31	2.77	4	6	64.37	0.1	-0.75	0.31	0.42	8.82
+Danshen	MOL007132	"(2R)-3-(3,4-dihydroxyphenyl)-2-[(Z)-3-(3,4-dihydroxyphenyl)acryloyl]oxy-propionic acid"	360.34	2.69	5	8	109.38	-0.33	-1.02	0.35	0.41	2.01
+Danshen	MOL007140	"(Z)-3-[2-[(E)-2-(3,4-dihydroxyphenyl)vinyl]-3,4-dihydroxy-phenyl]acrylic acid"	314.31	2.82	5	6	88.54	-0.09	-0.77	0.26	0.43	4.31
+Danshen	MOL007141	salvianolic acid g	340.3	2.2	4	7	45.56	-0.14	-0.97	0.61	0.45	2.4
+Danshen	MOL007142	salvianolic acid j	538.49	3.78	6	12	43.38	-0.82	-2.14	0.72	0.44	5.77
+Danshen	MOL007143	salvilenone	270.4	2.88	1	2	32.43	1.13	0.77	0.23	0.3	1
+Danshen	MOL007145	salviolone	268.38	4.05	1	2	31.72	1.04	0.72	0.24	0.36	0.33
+Danshen	MOL007149	NSC 122421	300.48	4.99	1	2	34.49	1.08	0.63	0.28	0.29	14.56
+Danshen	MOL007150	"(6S)-6-hydroxy-1-methyl-6-methylol-8,9-dihydro-7H-naphtho[8,7-g]benzofuran-10,11-quinone"	312.34	2.42	2	5	75.39	0.03	-0.74	0.46	0.29	23.45
+Danshen	MOL007151	Tanshindiol B	312.34	2.34	2	5	42.67	0.05	-0.63	0.45	0.33	22.25
+Danshen	MOL007152	Przewaquinone E	312.34	2.34	2	5	42.85	-0.04	-0.65	0.45	0.32	22.44
+Danshen	MOL007154	tanshinone iia	294.37	4.66	0	3	49.89	1.05	0.7	0.4	0.31	23.56
+Danshen	MOL007155	"(6S)-6-(hydroxymethyl)-1,6-dimethyl-8,9-dihydro-7H-naphtho[8,7-g]benzofuran-10,11-dione"	310.37	3.57	1	4	65.26	0.44	-0.31	0.45	0.29	23.48
+Danshen	MOL007156	tanshinone	296.34	2.44	2	4	45.64	0.48	-0.28	0.3	0.38	15.21
+Rengongniuhuang	MOL008838	"methyl (4R)-4-[(3R,5S,7S,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoate"	422.67	3.14	3	5	32.32	-0.43	-1.07	0.76	0.23	6.73
+Rengongniuhuang	MOL008839	Methyl desoxycholate	406.67	4.31	2	4	34.63	0.25	-0.32	0.73	0.2	7.61
+Rengongniuhuang	MOL008845	Deoxycholic Acid	392.64	4.06	3	4	40.72	-0.28	-0.88	0.68	0.28	7.01
+Rengongniuhuang	MOL008846	ZINC01280365	330.51	3.12	1	3	46.38	0.22	-0.32	0.49	0.28	3.99
+Rengongniuhuang	MOL000953	CLR	386.73	7.38	1	1	37.87	1.43	1.13	0.68	0.2	4.52
+Bingpian	MOL006861	asiatic acid	488.78	4.3	4	5	41.38	-0.29	-0.93	0.71	0.24	4.28
+Bingpian	MOL006862	bronyl acetate	447.55	4.02	1	8	59.3	0.23	-0.15	0.51	0.24	8.81
+Bingpian	MOL006865	dipterocarpol	442.8	6.92	1	2	41.71	1.01	0.42	0.76	0.27	7.06
+Rrengongshexiang	MOL008845	Deoxycholic Acid	392.64	4.057	3	4	40.7230221	-0.27745	-0.88003	0.68353	0.27817494	7.013758
+Rrengongshexiang	MOL000737	morin	302.25	1.504	5	7	46.22958555	0.00286	-0.77	0.27457	0.40938485	15.513617
+Rrengongshexiang	MOL003790	Androstane	260.51	5.827	0	0	32.49900016	1.77714	2.0533	0.26402	0.18068208	4.368504
+Chansu	MOL005409	anisodamine	305.41	0.631	2	5	34.87225245	0.00828	-0.47791	0.22584	0.30422267	2.939981
+Chansu	MOL005438	campesterol	400.76	7.628	1	1	37.57681789	1.34459	0.94546	0.71488	0.22386885	4.832037
+Chansu	MOL005531	Telocinobufagin	402.58	2.109	3	5	69.99386894	-0.12318	-0.84745	0.79297	0.26429063	5.146415
+Chansu	MOL012254	campesterol	400.76	7.628	1	1	37.57681789	1.3428	0.97734	0.71486	0.2117542	4.633973
+Chansu	MOL000358	beta-sitosterol	414.79	8.084	1	1	36.91390583	1.32463	0.98588	0.75123	0.22550575	5.355491
+Chansu	MOL009157	NSC90384	402.58	2.144	3	5	36.32034791	-0.2894	-1.11519	0.80042	0.26582932	6.529657
+Chansu	MOL001771	poriferast-5-en-3beta-ol	414.79	8.084	1	1	36.91390583	1.45001	1.14299	0.75034	0	5.066671
+Xiongdanfen	MOL008845	Deoxycholic Acid	392.64	4.057	3	4	40.7230221	-0.27745	-0.88003	0.68353	0.27817494	7.013758
+Xiongdanfen	MOL001439	arachidonic acid	304.52	6.414	1	2	45.57324991	1.19517	0.58195	0.20409	0.27759594	4.391821
+Xiongdanfen	MOL000449	Stigmasterol	412.77	7.64	1	1	43.82985158	1.44458	1.00045	0.75665	0.21679397	5.574595
+Xiongdanfen	MOL008400	glycitein	284.28	2.316	2	5	50.47891366	0.56176	-0.28745	0.23826	0.30143285	16.320275
+Xiongdanfen	MOL001755	24-Ethylcholest-4-en-3-one	412.77	8.18	0	1	36.08361164	1.4563	1.22267	0.75703	0.24615161	5.488495
+Xiongdanfen	MOL009807	CHD	408.64	2.887	4	5	22.168178	-0.7037	-1.05646	0.72155	0.2704359	

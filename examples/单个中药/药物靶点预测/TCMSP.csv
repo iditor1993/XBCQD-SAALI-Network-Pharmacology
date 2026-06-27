@@ -1,0 +1,369 @@
+Mol_ID,Description,Gene_symbol
+MOL000033,Progesterone receptor,PGR
+MOL000098,Interleukin-8,CXCL8
+MOL000098,Tumor necrosis factor,STEAP4
+MOL000098,Prostaglandin E2 receptor EP3 subtype,PTGER3
+MOL000098,Heat shock protein beta-1,HEL-S-102
+MOL000098,Nuclear receptor coactivator 2,NCOA2
+MOL000098,Protein kinase C beta type,PRKCB
+MOL000098,Potassium voltage-gated channel subfamily H member 2,KCNH2
+MOL000098,Interleukin-2,IL2
+MOL000098,Transforming growth factor beta-1,TGFB1
+MOL000098,E-selectin,SELE
+MOL000098,Peroxisome proliferator activated receptor gamma,PPARG
+MOL000098,Cytochrome P450 1B1,CYP1B1
+MOL000098,Interleukin-6,IL6
+MOL000098,Insulin receptor,INSR
+MOL000098,Baculoviral IAP repeat-containing protein 5,BIRC5
+MOL000098,Dual oxidase 2,DUOX2
+MOL000098,Estrogen sulfotransferase,SULT1E1
+MOL000098,Cytochrome P450 1A1,CYP1A1
+MOL000098,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL000098,Vascular cell adhesion protein 1,VCAM1
+MOL000098,Beta-2 adrenergic receptor,ADRB2
+MOL000098,Nuclear receptor subfamily 1 group I member 2,NR1I2
+MOL000098,Heme oxygenase 1,HMOX1
+MOL000098,Prostaglandin G/H synthase 2,PTGS2
+MOL000098,Coagulation factor VII,F7
+MOL000098,Dipeptidyl peptidase IV,DPP4
+MOL000098,Aldose reductase,AKR1B1
+MOL000098,Trypsin-1,PRSS1
+MOL000098,C-reactive protein,CRP
+MOL000098,C-X-C motif chemokine 10,CXCL10
+MOL000098,C-C motif chemokine 2,CCL2
+MOL000098,Androgen receptor,AR
+MOL000098,Retinoblastoma-associated protein,RB1
+MOL000098,Cytochrome P450 3A4,CYP3A4
+MOL000098,Cytochrome P450 1A2,CYP1A2
+MOL000098,Retinoic acid receptor RXR-alpha,RXRA
+MOL000098,Acetylcholinesterase,ACHE
+MOL000098,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL000098,Urokinase-type plasminogen activator,ATF
+MOL000098,Poly [ADP-ribose] polymerase 1,PARP1
+MOL000098,72 kDa type IV collagenase,MMP2
+MOL000098,Inhibitor of nuclear factor kappa-B kinase subunit alpha,CHUK
+MOL000098,Osteopontin,opn
+MOL000098,Runt-related transcription factor 2,RUNX2
+MOL000098,Stromelysin-1,MMP3
+MOL000098,Bcl-2-like protein 1,BCL2L1
+MOL000098,C-X-C motif chemokine 2,CXCL2
+MOL000098,DDB1- and CUL4-associated factor 5,DCAF5
+MOL000098,Nuclear receptor subfamily 1 group I member 3,NR1I3
+MOL000098,Claudin-4,CLDN4
+MOL000098,Peroxisome proliferator-activated receptor alpha,NR1C1
+MOL000098,DNA topoisomerase II,TOP2A
+MOL000098,Heat shock factor protein 1,HSF1
+MOL000098,ETS domain-containing protein Elk-1,ELK1
+MOL000098,Intercellular adhesion molecule 1,ICAM1
+MOL000098,Interleukin-1 beta,IL1B
+MOL000098,Prostaglandin G/H synthase 1,PTGS1
+MOL000098,Pro-epidermal growth factor,EGF
+MOL000098,C-X-C motif chemokine 11,CXCL11
+MOL000098,Transcription factor E2F1,E2F1
+MOL000098,Transcription factor E2F2,E2F2
+MOL000098,G2/mitotic-specific cyclin-B1,CCNB1
+MOL000098,Tissue-type plasminogen activator,PLAT
+MOL000098,Thrombomodulin,THBD
+MOL000098,Peroxisome proliferator-activated receptor delta,PPARD
+MOL000098,Amine oxidase [flavin-containing] B,MAOB
+MOL000098,Transcription factor p65,RELA
+MOL000098,NF-kappa-B inhibitor alpha,IkBa
+MOL000098,NADPH--cytochrome P450 reductase,POR
+MOL000098,Ornithine decarboxylase,ODC1
+MOL000098,Xanthine dehydrogenase/oxidase,XDH
+MOL000098,Ras association domain-containing protein 1,RASSF1
+MOL000098,Receptor tyrosine-protein kinase erbB-2,ERBB2
+MOL000098,Proto-oncogene c-Fos,FOS
+MOL000098,Cyclin-dependent kinase inhibitor 1,CDKN1A
+MOL000098,Eukaryotic translation initiation factor 6,EIF6
+MOL000098,Apoptosis regulator BAX,BAX
+MOL000098,Plasminogen activator inhibitor 1,SERPINE1
+MOL000098,Gap junction alpha-1 protein,CXNK1
+MOL000098,Aryl hydrocarbon receptor,AHR
+MOL000098,Matrix metalloproteinase-9,MMP9
+MOL000098,Mitogen-activated protein kinase 1,MAPK1
+MOL000098,Interleukin-10,IL10
+MOL000098,Caspase-8,CASP8
+MOL000098,DNA topoisomerase 1,TOP1
+MOL000098,RAF proto-oncogene serine/threonine-protein kinase,RAF1
+MOL000098,Prostatic acid phosphatase,ACP3
+MOL000098,Activator of 90 kDa heat shock protein ATPase homolog 1,AHSA1
+MOL000098,Caspase-3,CASP3
+MOL000098,Cellular tumor antigen p53,p53
+MOL000098,Interferon regulatory factor 1,IRF1
+MOL000098,Epidermal growth factor receptor,c-erbB
+MOL000098,RAC-alpha serine/threonine-protein kinase,AKT1
+MOL000098,Vascular endothelial growth factor A,VEGFA
+MOL000098,G1/S-specific cyclin-D1,CCND1
+MOL000098,Apoptosis regulator Bcl-2,BCL2
+MOL000098,Hexokinase-2,DKFZp686M1669
+MOL000098,Peroxisome proliferator-activated receptor gamma,PPARG
+MOL000098,Acetyl-CoA carboxylase 1,ACACA
+MOL000098,Cathepsin D,CTSD
+MOL000098,Insulin-like growth factor-binding protein 3,IGFBP3
+MOL000098,Insulin-like growth factor II,IGF2
+MOL000098,CD40 ligand,CD40LG
+MOL000098,Signal transducer and activator of transcription 1-alpha/beta,STAT1
+MOL000098,Receptor tyrosine-protein kinase erbB-3,ERBB3
+MOL000098,26S proteasome non-ATPase regulatory subunit 3,PSMD3
+MOL000098,Puromycin-sensitive aminopeptidase,NPEPPS
+MOL000098,78 kDa glucose-regulated protein,HEL-S-89n
+MOL000098,Homeobox protein Nkx-3.1,NKX3-1
+MOL000098,Caveolin-1,CAV1
+MOL000098,Myc proto-oncogene protein,MYC
+MOL000098,Tissue factor,F3
+MOL000098,Caspase-9,CASP9
+MOL000098,Nuclear factor erythroid 2-related factor 2,NFE2L2
+MOL000098,Interleukin-1 alpha,IL1A
+MOL000098,Serum paraoxonase/arylesterase 1,PON1
+MOL000098,Type I iodothyronine deiodinase,DIO1
+MOL000098,Procollagen C-endopeptidase enhancer 1,PCOLCE
+MOL000098,Serine/threonine-protein kinase Chk2,CHEK2
+MOL000098,Myeloperoxidase,MPO
+MOL000098,DNA topoisomerase 2-alpha,TOP2A
+MOL000098,Superoxide dismutase [Cu-Zn],HEL-S-44
+MOL000098,Interstitial collagenase,MMP1
+MOL000098,Hypoxia-inducible factor 1-alpha,HIF1A
+MOL000098,Glutathione S-transferase P,GSTP1
+MOL000098,Ras GTPase-activating protein 1,RASA1
+MOL000098,Protein kinase C alpha type,PRKCA
+MOL000098,Interferon gamma,IF2F
+MOL000098,Arachidonate 5-lipoxygenase,ALOX5
+MOL000098,Hyaluronan synthase 2,HAS2
+MOL000098,Cell division control protein 2 homolog,CDK1
+MOL000098,Protein CBFA2T1,RUNX1T1
+MOL000098,Glutathione S-transferase Mu 1,GSTM1
+MOL000098,Glutathione S-transferase Mu 2,GSTM2
+MOL000098,ATP-binding cassette sub-family G member 2,ABCG2
+MOL000098,Neutrophil cytosol factor 1,NCF1
+MOL000211,Progesterone receptor,PGR
+MOL000239,Estrogen receptor beta,ESR2
+MOL000239,Androgen receptor,AR
+MOL000239,Prostaglandin G/H synthase 2,PTGS2
+MOL000239,Trypsin-1,PRSS1
+MOL000239,Serine/threonine-protein kinase Chk1,CHEK1
+MOL000239,Nuclear receptor coactivator 2,NCOA2
+MOL000239,Dipeptidyl peptidase IV,DPP4
+MOL000239,Prostaglandin G/H synthase 1,PTGS1
+MOL000239,Cell division protein kinase 2,CDK2
+MOL000239,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL000296,Progesterone receptor,PGR
+MOL000296,Muscarinic acetylcholine receptor M3,CHRM3
+MOL000296,Nuclear receptor coactivator 2,NCOA2
+MOL000296,Muscarinic acetylcholine receptor M1,CHRM1
+MOL000296,Alcohol dehydrogenase 1C,ADH1C
+MOL000296,Glutamate receptor 2,GRIA2
+MOL000296,Muscarinic acetylcholine receptor M2,CHRM2
+MOL000296,Alpha-1B adrenergic receptor,ADRA1B
+MOL000296,Sodium-dependent noradrenaline transporter,SLC6A2
+MOL000296,Retinoic acid receptor RXR-alpha,RXRA
+MOL000296,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL000296,Alcohol dehydrogenase 1B,ADH1B
+MOL000296,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL000296,Prostaglandin G/H synthase 2,PTGS2
+MOL000296,Ig gamma-1 chain C region,IGHG1
+MOL000296,Prostaglandin G/H synthase 1,PTGS1
+MOL000354,Neutrophil cytosol factor 1,NCF1
+MOL000354,Aldose reductase,AKR1B1
+MOL000354,Serine/threonine-protein kinase Chk1,CHEK1
+MOL000354,Transcription factor p65,RELA
+MOL000354,Xanthine dehydrogenase/oxidase,XDH
+MOL000354,Oxidized low-density lipoprotein receptor 1,OLR1
+MOL000354,Nuclear receptor coactivator 1,NCOA1
+MOL000354,Mitogen-activated protein kinase 14,MAPK14
+MOL000354,Coagulation factor VII,F7
+MOL000354,Cell division protein kinase 2,CDK2
+MOL000354,Acetylcholinesterase,ACHE
+MOL000354,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL000354,Amine oxidase [flavin-containing] B,MAOB
+MOL000354,Glutamate receptor 2,GRIA2
+MOL000354,Prostaglandin G/H synthase 1,PTGS1
+MOL000354,Estrogen receptor beta,ESR2
+MOL000354,Androgen receptor,AR
+MOL000354,Glycogen synthase kinase-3 beta,GSK3B
+MOL000354,Cyclin-A2,CCNA2
+MOL000354,Trypsin-1,PRSS1
+MOL000354,Nuclear receptor coactivator 2,NCOA2
+MOL000354,Prostaglandin G/H synthase 2,PTGS2
+MOL000354,Dipeptidyl peptidase IV,DPP4
+MOL000354,Estrogen receptor,ESR1
+MOL000354,Peroxisome proliferator activated receptor gamma,PPARG
+MOL000371,Acetylcholinesterase,ACHE
+MOL000371,Muscarinic acetylcholine receptor M3,CHRM3
+MOL000371,Prostaglandin G/H synthase 2,PTGS2
+MOL000371,Muscarinic acetylcholine receptor M1,CHRM1
+MOL000371,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL000371,Beta-2 adrenergic receptor,ADRB2
+MOL000371,Mu-type opioid receptor,OPRM1
+MOL000371,Alpha-1B adrenergic receptor,ADRA1B
+MOL000371,Prostaglandin G/H synthase 1,PTGS1
+MOL000371,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL000371,Alpha-1D adrenergic receptor,ADRA1D
+MOL000371,5-hydroxytryptamine receptor 3A,HTR3A
+MOL000371,Beta-1 adrenergic receptor,ADRB1
+MOL000371,Alpha-2C adrenergic receptor,ADRA2C
+MOL000371,Retinoic acid receptor RXR-alpha,RXRA
+MOL000371,Nuclear receptor coactivator 2,NCOA2
+MOL000371,Trypsin-1,PRSS1
+MOL000371,Estrogen receptor,ESR1
+MOL000378,Muscarinic acetylcholine receptor M5,CHRM5
+MOL000378,Muscarinic acetylcholine receptor M4,CHRM4
+MOL000378,Androgen receptor,AR
+MOL000378,Muscarinic acetylcholine receptor M1,CHRM1
+MOL000378,Peroxisome proliferator activated receptor gamma,PPARG
+MOL000378,Estrogen receptor,ESR1
+MOL000378,Sodium-dependent dopamine transporter,DAT1
+MOL000378,Prostaglandin G/H synthase 2,PTGS2
+MOL000378,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL000378,Retinoic acid receptor RXR-alpha,RXRA
+MOL000378,Delta-type opioid receptor,OPRD1
+MOL000378,Potassium voltage-gated channel subfamily H member 2,KCNH2
+MOL000378,Alpha-1A adrenergic receptor,ADRA1A
+MOL000378,Muscarinic acetylcholine receptor M2,CHRM2
+MOL000378,Alpha-1B adrenergic receptor,ADRA1B
+MOL000378,Retinoic acid receptor RXR-beta,RXRB
+MOL000378,Beta-2 adrenergic receptor,ADRB2
+MOL000378,Alpha-1D adrenergic receptor,ADRA1D
+MOL000378,Alpha-2C adrenergic receptor,ADRA2C
+MOL000378,Nuclear receptor coactivator 2,NCOA2
+MOL000378,Dopamine D1 receptor,DRD1
+MOL000378,Mitogen-activated protein kinase 14,MAPK14
+MOL000378,Glycogen synthase kinase-3 beta,GSK3B
+MOL000378,Beta-1 adrenergic receptor,ADRB1
+MOL000378,Serine/threonine-protein kinase Chk1,CHEK1
+MOL000378,Sodium-dependent serotonin transporter,SLC6A4
+MOL000378,Estrogen receptor beta,ESR2
+MOL000378,Trypsin-1,PRSS1
+MOL000378,Muscarinic acetylcholine receptor M3,CHRM3
+MOL000378,Cyclin-A2,CCNA2
+MOL000378,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL000378,Dipeptidyl peptidase IV,DPP4
+MOL000378,Cell division protein kinase 2,CDK2
+MOL000378,Prostaglandin G/H synthase 1,PTGS1
+MOL000379,Nuclear receptor coactivator 2,NCOA2
+MOL000379,DNA topoisomerase II,TOP2A
+MOL000379,Prostaglandin G/H synthase 2,PTGS2
+MOL000380,Muscarinic acetylcholine receptor M3,CHRM3
+MOL000380,Sodium channel protein type 5 subunit alpha,SCN5A
+MOL000380,Muscarinic acetylcholine receptor M1,CHRM1
+MOL000380,Estrogen receptor,ESR1
+MOL000380,Trypsin-1,PRSS1
+MOL000380,Acetylcholinesterase,ACHE
+MOL000380,Prostaglandin G/H synthase 2,PTGS2
+MOL000380,Retinoic acid receptor RXR-alpha,RXRA
+MOL000380,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL000380,5-hydroxytryptamine receptor 3A,HTR3A
+MOL000380,Prostaglandin G/H synthase 1,PTGS1
+MOL000380,Nuclear receptor coactivator 2,NCOA2
+MOL000380,Nuclear receptor coactivator 1,NCOA1
+MOL000380,Beta-2 adrenergic receptor,ADRB2
+MOL000380,Muscarinic acetylcholine receptor M4,CHRM4
+MOL000380,Alpha-1B adrenergic receptor,ADRA1B
+MOL000380,Alpha-1D adrenergic receptor,ADRA1D
+MOL000387,Vascular endothelial growth factor receptor 2,KDR
+MOL000387,Prostaglandin G/H synthase 2,PTGS2
+MOL000387,Prostaglandin G/H synthase 1,PTGS1
+MOL000387,DNA topoisomerase II,TOP2A
+MOL000387,Hepatocyte growth factor receptor,MET
+MOL000392,Estrogen receptor beta,ESR2
+MOL000392,Dipeptidyl peptidase IV,DPP4
+MOL000392,Cell division protein kinase 2,CDK2
+MOL000392,Glycogen synthase kinase-3 beta,GSK3B
+MOL000392,Sodium-dependent serotonin transporter,SLC6A4
+MOL000392,cAMP-dependent protein kinase inhibitor alpha,PKIA
+MOL000392,Prostaglandin G/H synthase 1,PTGS1
+MOL000392,Mitogen-activated protein kinase 14,MAPK14
+MOL000392,Estrogen receptor,ESR1
+MOL000392,Acetylcholinesterase,ACHE
+MOL000392,Amine oxidase [flavin-containing] B,MAOB
+MOL000392,Serine/threonine-protein kinase Chk1,CHEK1
+MOL000392,Trypsin-1,PRSS1
+MOL000392,Cyclin-A2,CCNA2
+MOL000392,Beta-2 adrenergic receptor,ADRB2
+MOL000392,3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2,HSD3B2
+MOL000392,3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1,HSD3B1
+MOL000392,Muscarinic acetylcholine receptor M1,CHRM1
+MOL000392,Peroxisome proliferator-activated receptor gamma,PPARG
+MOL000392,Androgen receptor,AR
+MOL000392,Beta-lactamase,DPEP1
+MOL000392,Sodium-dependent dopamine transporter,DAT1
+MOL000392,Retinoic acid receptor RXR-alpha,RXRA
+MOL000392,Alpha-1A adrenergic receptor,ADRA1A
+MOL000392,NADH-ubiquinone oxidoreductase chain 6,COX1
+MOL000392,Peroxisome proliferator activated receptor gamma,PPARG
+MOL000392,Interleukin-4,IL4
+MOL000392,Prostaglandin G/H synthase 2,PTGS2
+MOL000417,Prostaglandin G/H synthase 2,PTGS2
+MOL000417,Retinoic acid receptor RXR-alpha,RXRA
+MOL000417,Beta-2 adrenergic receptor,ADRB2
+MOL000417,Dipeptidyl peptidase IV,DPP4
+MOL000417,Mitogen-activated protein kinase 14,MAPK14
+MOL000417,Estrogen receptor beta,ESR2
+MOL000417,Peroxisome proliferator activated receptor gamma,PPARG
+MOL000417,Cyclin-A2,CCNA2
+MOL000417,Glycogen synthase kinase-3 beta,GSK3B
+MOL000417,Cell division protein kinase 2,CDK2
+MOL000417,Nuclear receptor coactivator 2,NCOA2
+MOL000417,Trypsin-1,PRSS1
+MOL000417,Androgen receptor,AR
+MOL000417,Serine/threonine-protein kinase Chk1,CHEK1
+MOL000417,Prostaglandin G/H synthase 1,PTGS1
+MOL000417,Estrogen receptor,ESR1
+MOL000422,Nuclear receptor coactivator 2,NCOA2
+MOL000422,Intercellular adhesion molecule 1,ICAM1
+MOL000422,E-selectin,SELE
+MOL000422,Sodium-dependent noradrenaline transporter,SLC6A2
+MOL000422,Muscarinic acetylcholine receptor M2,CHRM2
+MOL000422,Alpha-1B adrenergic receptor,ADRA1B
+MOL000422,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1
+MOL000422,DNA topoisomerase II,TOP2A
+MOL000422,Dipeptidyl peptidase IV,DPP4
+MOL000422,Cytochrome P450 1A1,CYP1A1
+MOL000422,Acetylcholinesterase,ACHE
+MOL000422,Activator of 90 kDa heat shock protein ATPase homolog 1,AHSA1
+MOL000422,Caspase-3,CASP3
+MOL000422,Mitogen-activated protein kinase 8,MAPK8
+MOL000422,Xanthine dehydrogenase/oxidase,XDH
+MOL000422,Coagulation factor VII,F7
+MOL000422,Trypsin-1,PRSS1
+MOL000422,Progesterone receptor,PGR
+MOL000422,Muscarinic acetylcholine receptor M1,CHRM1
+MOL000422,Cytochrome P450 1A2,CYP1A2
+MOL000422,Prostaglandin G/H synthase 1,PTGS1
+MOL000422,Androgen receptor,AR
+MOL000422,Peroxisome proliferator activated receptor gamma,PPARG
+MOL000422,Vascular cell adhesion protein 1,VCAM1
+MOL000422,Nuclear receptor subfamily 1 group I member 2,NR1I2
+MOL000422,Cytochrome P450 1B1,CYP1B1
+MOL000422,Arachidonate 5-lipoxygenase,ALOX5
+MOL000422,Hyaluronan synthase 2,HAS2
+MOL000422,Glutathione S-transferase P,GSTP1
+MOL000422,Aryl hydrocarbon receptor,AHR
+MOL000422,26S proteasome non-ATPase regulatory subunit 3,PSMD3
+MOL000422,Nuclear receptor subfamily 1 group I member 3,NR1I3
+MOL000422,Insulin receptor,INSR
+MOL000422,Type I iodothyronine deiodinase,DIO1
+MOL000422,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,PPP3CA
+MOL000422,Glutathione S-transferase Mu 1,GSTM1
+MOL000422,Glutathione S-transferase Mu 2,GSTM2
+MOL000422,Aldo-keto reductase family 1 member C3,AKR1C3
+MOL000422,Antileukoproteinase,SLPI
+MOL000422,Transcription factor p65,RELA
+MOL000422,Inhibitor of nuclear factor kappa-B kinase subunit beta,IKBKB
+MOL000422,RAC-alpha serine/threonine-protein kinase,AKT1
+MOL000422,Apoptosis regulator Bcl-2,BCL2
+MOL000422,Apoptosis regulator BAX,BAX
+MOL000422,Tumor necrosis factor,STEAP4
+MOL000422,Peroxisome proliferator-activated receptor gamma,PPARG
+MOL000422,Interstitial collagenase,MMP1
+MOL000422,Prostaglandin G/H synthase 2,PTGS2
+MOL000422,Cell division control protein 2 homolog,CDK1
+MOL000422,Heme oxygenase 1,HMOX1
+MOL000422,Signal transducer and activator of transcription 1-alpha/beta,STAT1
+MOL000422,Cytochrome P450 3A4,CYP3A4
+MOL000433,Cell division protein kinase 2,CDK2
+MOL000433,Glycogen synthase kinase-3 beta,GSK3B
+MOL000439,DNA topoisomerase II,TOP2A
+MOL000442,Trypsin-1,PRSS1
+MOL000442,Prostaglandin G/H synthase 2,PTGS2
+MOL000442,Retinoic acid receptor RXR-alpha,RXRA
